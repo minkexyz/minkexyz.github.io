@@ -79,7 +79,7 @@
           <li>Prep: 10 minutes</li>
           <li>Wait: 15 minutes</li>
         </ul>
-        <button type="button" class="btn btn-lg btn-block btn-primary">View Recipe</button>
+        <button type="button" class="btn btn-lg btn-block btn-primary" data-toggle="modal" data-target="#exampleModal">View Recipe</button>
       </div>
     </div>
     <div class="card mb-4 shadow-sm">
@@ -92,7 +92,7 @@
           <li>Prep: 20 minutes</li>
           <li>Wait: 45 minutes</li>
         </ul>
-        <button type="button" class="btn btn-lg btn-block btn-primary">View Recipe</button>
+        <button type="button" class="btn btn-lg btn-block btn-primary" data-toggle="modal" data-target="#exampleModal">View Recipe</button>
       </div>
     </div>
     <div class="card mb-4 shadow-sm">
@@ -105,11 +105,42 @@
           <li>Prep: 10 Minutes</li>
           <li>Wait: 30 minutes</li>
         </ul>
-        <button type="button" class="btn btn-lg btn-block btn-primary">View Recipe</button>
+        <button type="button" class="btn btn-lg btn-block btn-primary" data-toggle="modal" data-target="#exampleModal">View Recipe</button>
       </div>
     </div>
   </div>
 </div> <!-- End Container -->
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Recipe Example</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      	<h4>Ingredients</h4>
+        <ul>
+        	<li>1 Cup something</li>
+        	<li>1 Tbsp something</li>
+        	<li>1/2 Cup liquid</li>
+        </ul>
+        <h4>Instructions</h4>
+        <ol>
+        	<li>Do this first</li>
+        	<li>Then this</li>
+        	<li>Then bake</li>
+        </ol>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
 
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
