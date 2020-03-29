@@ -1,150 +1,90 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html>
+
   <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Minke's Cookbook</title>
+  <meta name="author" content="Sam Ellis">
+  <meta name="description" content="Recipe database website">
+  <meta name="keywords" content="cookbook,recipe,recipes,cook,cooking,minke">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
-    <style>
-      .bd-placeholder-img {
-        font-size: 1.125rem;
-        text-anchor: middle;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        -ms-user-select: none;
-        user-select: none;
-      }
-
-      @media (min-width: 768px) {
-        .bd-placeholder-img-lg {
-          font-size: 3.5rem;
-        }
-      }
-    </style>
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" type="text/css" href="custom.css">
-
-    <title>Minke's Recipes</title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+  <link rel="icon" type="image/png" href="32x32-favicon.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="16x16-favicon.png" sizes="16x16" />
+  <!-- add stylesheets -->
+  <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+  <link rel="stylesheet" href="style.css" type="text/css">
+  <!-- add javascript -->
+  <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="main.js"></script> 
   </head>
 
   <body>
-    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-	  <a class="navbar-brand" href="#">Minke's Recipes</a>
-	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-	    <span class="navbar-toggler-icon"></span>
-	  </button>
-	  <div class="collapse navbar-collapse" id="navbarCollapse">
-	    <ul class="navbar-nav mr-auto">
-	      <li class="nav-item active">
-	        <a class="nav-link" href="#">All <span class="sr-only">(current)</span></a>
-	      </li>
-	      <li class="nav-item">
-	        <a class="nav-link" href="#">Dinner</a>
-	      </li>
-	      <li class="nav-item">
-	        <a class="nav-link" href="#">Dessert</a>
-	      </li>
-	      <li class="nav-item">
-	        <a class="nav-link" href="#">Apps</a>
-	      </li>
-	      <li class="nav-item">
-	        <a class="nav-link" href="#">Breakfast</a>
-	      </li>
-	    </ul>
-	    <form class="form-inline mt-2 mt-md-0">
-	      <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-	      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-	    </form>
-	  </div>
-	</nav>
 
-<div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-  <h1 class="display-4">MINKE.XYZ</h1>
-  <p class="lead">Merry Christmas Mom! Here's a rough starting point for a recipe website. All the styles, formatting, etc. can be modified to your liking. You just have to send me all the recipes that you want saved and I'll add them in to the website!</p>
-</div>
+    <!-- Modal -->
+    <div class="modal fade" id="recipe-modal" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title"></h4>
+          </div>
+          <div class="modal-body">
+            <h3>Ingredients</h3>
+            <ul class="modal-ingredients-list">
+                
+            </ul>
+            <h3>Instructions</h3>
+            <ol class="modal-steps-list">
 
-<div class="container">
-  <div class="card-deck mb-3 text-center">
-    <div class="card mb-4 shadow-sm">
-      <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Chocolate Chip Cookies</h4>
-      </div>
-      <div class="card-body">
-        <h1 class="card-title pricing-card-title"><small class="text-muted">Serves: 12</small></h1>
-        <ul class="list-unstyled mt-3 mb-4">
-          <li>Prep: 10 minutes</li>
-          <li>Wait: 15 minutes</li>
-        </ul>
-        <button type="button" class="btn btn-lg btn-block btn-primary" data-toggle="modal" data-target="#exampleModal">View Recipe</button>
+            </ol>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
       </div>
     </div>
-    <div class="card mb-4 shadow-sm">
-      <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Dabber's Chicken Noodle Soup</h4>
-      </div>
-      <div class="card-body">
-        <h1 class="card-title pricing-card-title"><small class="text-muted">Serves: 6</small></h1>
-        <ul class="list-unstyled mt-3 mb-4">
-          <li>Prep: 20 minutes</li>
-          <li>Wait: 45 minutes</li>
-        </ul>
-        <button type="button" class="btn btn-lg btn-block btn-primary" data-toggle="modal" data-target="#exampleModal">View Recipe</button>
-      </div>
-    </div>
-    <div class="card mb-4 shadow-sm">
-      <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Butternut Squash Soup</h4>
-      </div>
-      <div class="card-body">
-        <h1 class="card-title pricing-card-title"><small class="text-muted">Serves: 4</small></h1>
-        <ul class="list-unstyled mt-3 mb-4">
-          <li>Prep: 10 Minutes</li>
-          <li>Wait: 30 minutes</li>
-        </ul>
-        <button type="button" class="btn btn-lg btn-block btn-primary" data-toggle="modal" data-target="#exampleModal">View Recipe</button>
-      </div>
-    </div>
-  </div>
-</div> <!-- End Container -->
 
-<!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Recipe Example</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-      	<h4>Ingredients</h4>
-        <ul>
-        	<li>1 Cup something</li>
-        	<li>1 Tbsp something</li>
-        	<li>1/2 Cup liquid</li>
-        </ul>
-        <h4>Instructions</h4>
-        <ol>
-        	<li>Do this first</li>
-        	<li>Then this</li>
-        	<li>Then bake</li>
-        </ol>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+    <!-- Main Container -->
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-3 col-md-2 sidebar"> <!-- Sidebar Navigation -->
+            <h4 class="sidebar-title">Menu</h4>
+          <ul class="nav nav-sidebar">
+            <li id="all-nav" class="active"><a href="#">All</a></li>
+            <li id="appetizer-nav"><a href="#">Appetizer</a></li>
+            <li id="bread-nav"><a href="#">Bread</a></li>
+            <li id="breakfast-nav"><a href="#">Breakfast</a></li>
+            <li id="dessert-nav"><a href="#">Dessert</a></li>
+            <li id="dinner-nav"><a href="#">Dinner</a></li>
+            <li id="smoothie-nav"><a href="#">Smoothie</a></li>
+            <li id="snack-nav"><a href="#">Snack</a></li>
+            <li id="soup-nav"><a href="#">Soup</a></li>
+          </ul>
+          <form>
+            <input type="text" class="form-control" placeholder="Search" id="search-box">
+          </form>
+        </div> <!-- End Sidebar Nav -->
+
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 recipe-block"> <!-- Holds recipes from JSON -->
+          <div class="recipe-item col-md-4 col-sm-6">
+            <div class="panel panel-default recipe-panel">
+              <div class="panel-heading">Recipe Title</div>
+              <div class="panel-body">
+                <p><img class="card-icon" src="img/users.svg">serves: <strong>1</strong></p>
+                <p><img class="card-icon" src="img/clock.svg">prep: <strong>10 minutes</strong></p>
+                <p><img class="card-icon" src="img/clock.svg">wait: <strong>30 minutes</strong></p>
+                <button type="button" class="btn btn-default">View Recipe</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
-  </div>
-</div>
 
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
   </body>
 </html>
