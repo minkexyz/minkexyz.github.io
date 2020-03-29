@@ -1,5 +1,5 @@
 {
-"name" : "Minke Recipe Collection",
+"name" : "Sam Recipe Collection",
 "recipes" : [
 	{
 		"designation" : 0,
@@ -770,69 +770,20 @@
 	},
 	{
 		"designation" : 28,
-		"title" : "Greek Turkey Burgers with Spinach, Feta, & Tzatziki",
+		"title" : "",
 		"categories" : [
-			"dinner"
+			""
 		],
-		"serves" : "4",
-		"prep" : "30 minutes",
-		"wait" : "30 minutes",
+		"serves" : "",
+		"prep" : "",
+		"wait" : "",
 		"ingredients" : [
-			"1 cup frozen chopped spinach, thawed",
-			"1 pound lean ground turkey",
-			"1/2 cup crumbled feta cheese",
-			"1/2 tsp garlic powder",
-			"1/2 tsp dried oregano",
-			"1/4 tsp salt",
-			"1/4 tsp ground pepper",
-			"4 small hamburger buns",
-			"4 Tbs tzatziki",
-			"12 slices cucumber",
-			"8 thick rings red onion"
+			""
 		],
 		"instructions" : [
-			"Preheat grill to medium-high.",
-			"Combine the spinach with the turkey, feta, garlic powder, oregano, salt, and pepper in a medium bowl and mix well.",
-			"Form into four 4-inch patties.",
-			"Grill the patties on an oiled grill rack until cooked through and no longer pink in the center, 4 to 6 minutes per side (165)",
-			"Assemble the burgers on the buns, topping each with 1 Tbs. tzatziki, 3 cucumber slices, and 2 onion rings",
-			"(to make your own at home by combining plain greek yogurt with a squuze of lemon, dill, and finely chopped cucumer)."
-		]
-	},
-	{
-		"designation" : 29,
-		"title" : "Shrimp and Artichoke Kabobs",
-		"categories" : [
-			"dinner"
-		],
-		"serves" : "6",
-		"prep" : "10 minutes",
-		"wait" : "45 minutes",
-		"ingredients" : [
-			"9 oz uncooked fresh linguini",
-			"1 lb. (about 24 medium) fresh or frozen raw shrimp",
-			"11 medium red onion, cut into 12 wedges",
-			"2 (6 oz jars) marinated artichokes, reserve marinade",
-			"6 (12-inch) metal skewers",
-			"Basting Sauce",
-			"2 tsp dried basil leaves",
-			"1/2 tsp salt",
-			"1/2 tsp coarsely ground pepper",
-			"Dash cayenne papper",
-			"1/2 tsp finely chopped fresh garlic",
-			"2 Tbs olive or vegetable oil",
-			"2 tsp grated lemon peel"
-		],
-		"instructions" : [
-			"Prepare grill; heat until coals are ash white.",
-			"Cook linguini according to package directions; drain.",
-			"Place in large bowl; set aside.",
-			"Meanwhile, peel and devein shrimp, leaving tail intact (if shrimp are frozen, do not thaw; peel under running cold water).",
-			"Alternate shrim, onion, and artichokes on skewers.",
-			"In small bowl stir together 2 Tbs. reserved marinade and all basting sauce ingredients except lemon peel; brush over kabobs.",
-			"Place kabobs on grill.  Grill, basting and turning occasionally for 7-10 minutes or until shrimp turn pink.",
-			"Meanwhile, add remaining artichoke marinade and lemon peel to linguini; toss to coat.",
-			"Serve linguini with kabobs."
+			""
 		]
 	}
 ]
+
+}
