@@ -1,5 +1,5 @@
 {
-"name" : "Sam Recipe Collection",
+"name" : "Minke Recipe Collection",
 "recipes" : [
 	{
 		"designation" : 0,
@@ -673,6 +673,166 @@
 			"Cover and cook for 45 minutes, or until the rice is just tender.",
 			"Stir in shrimp, replace lid and cook for 5 minutes.",
 			"Season with salt and pepper to taste. Serve garnished with green onion."
+		]
+	},
+	{
+		"designation" : 25,
+		"title" : "Easy Quiche",
+		"categories" : [
+			"breakfast"
+		],
+		"serves" : "4",
+		"prep" : "10 minutes",
+		"wait" : "45 minutes",
+		"ingredients" : [
+			"3 eggs",
+			"1 Cup skim milk",
+			"1/2 Cup cottage cheese",
+			"1/2 Cup grated swiss cheese",
+			"Pinch of dry mustard",
+			"1 Teaspoon salt",
+			"Sprinkle of pepper",
+			"Sprinkle of parsley",
+			"9 inch pie shell"
+		],
+		"instructions" : [
+			"Bake 9 inch pie shell",
+			"Beat eggs until frothy. Add all ingredients except swiss cheese and whip until combined.",
+			"Line baked shell with cheese.",
+			"Pour in egg mixture.",
+			"Bake in 325 F oven for 45 minutes."
+		]
+	},
+	{
+		"designation" : 26,
+		"title" : "Basic Pasta",
+		"categories" : [
+			"dinner"
+		],
+		"serves" : "4",
+		"prep" : "30 minutes",
+		"wait" : "30 minutes",
+		"ingredients" : [
+			"1 1/2 Cups Semolina Flour",
+			"1 1/2 Cups All Purpose Flour",
+			"1 Teaspoon Salt, optional",
+			"4 Eggs, beaten",
+			"Just shy 4 Tablespoons Water",
+			"Just shy 4 Tablespoons Olive Oil"
+		],
+		"instructions" : [
+			"Combine both flours and salt. Mix until even and create a well in the center.",
+			"Add beaten eggs, water, and olive oil into the well. Using a fork, slowly incorporate more and more flour into the liquid.",
+			"Turn dough out onto a flat surface and knead until smooth, around 10 minutes. Add flour as needed to prevent sticking.",
+			"Form the dough into a hockey puck shape, wrap and plastic wrap, and let sit for 20 - 30 minutes.",
+			"On a lightly floured surface, roll out dough to desired thickness and cut into reasonably sized pieces",
+			"Use the pasta extruder to flatten, and then run the sheets through the spaghetti cutter. Make sure to flour at each step to prevent sticking.",
+			"Bring a large pot of water to boil and cook pasta until tender, usually around 2 - 3 minutes."
+		]
+	},
+	{
+		"designation" : 27,
+		"title" : "Garlic Pull-Apart Bread",
+		"categories" : [
+			"bread",
+			"snack"
+		],
+		"serves" : "8",
+		"prep" : "1 hour",
+		"wait" : "2 hours",
+		"ingredients" : [
+			"3 1/2 Cups all-purpose flour",
+			"2 Tablespoons sugar",
+			"1 Packet Fleischmanns RapidRise yeast",
+			"1 Teaspoon salt",
+			"3/4 Cup milk",
+			"1/4 Cup water",
+			"1/4 Cup butter, room temp",
+			"1 egg",
+			"8 Oz mozzarella cheese",
+			"1/2 Cup butter, melted",
+			"2 Tablespoons grated Parmesan cheese",
+			"1 1/2 Teaspoons garlic powder",
+			"1 1/2 Teaspoons Italian herb seasoning"
+		],
+		"instructions" : [
+			"Combine 2 cups flour, sugar, yeast and salt into the bowl of your stand mixer and mix on low until blended. Combine milk, water and butter in a microwave-safe bowl. Microwave on high in 15 second increments until very warm but not hot to the touch (120° to 130°F. Butter won’t melt completely). Add to flour mixture and then add the egg.",
+			"Mix with the paddle attachment for 2 minutes on medium speed, scraping the bowl as needed. Add 1 cup flour; beat 2 minutes at high speed. If necessary, stir in just enough remaining flour so that the dough will form into a ball.",
+			"Lightly flour your counter top and knead the dough until smooth and elastic and dough springs back when lightly pressed with 2 fingers, about 6 to 8 minutes. (Alternately you can switch out the paddle attachment for your dough hook on the stand mixer and do this step with the dough hook).",
+			"Cover the dough with a towel and let it rest for 10 minutes.",
+			"Coat a 10- cup bundt pan with nonstick spray and set aside.",
+			"Cut the cheese into 32 pieces or cubes. Set aside.",
+			"Cut the dough into 32 pieces. Wrap each piece of dough around a piece of cheese.",
+			"For filling, combine butter, Parmesan cheese, garlic powder and Italian herb seasoning in a small bowl.",
+			"Dip each dough ball into the melted butter mixture. Place in prepared pan. Pour any remaining butter over rolls and cover with towel. Let the dough rise in warm place until doubled in size, about 45 minutes.",
+			"Preheat oven to 375°F. Bake the rolls for 25 to 30 minutes or until golden brown. Cool 5 minutes in pan, then invert on serving plate."
+		]
+	},
+	{
+		"designation" : 28,
+		"title" : "Greek Turkey Burgers with Spinach, Feta, & Tzatziki",
+		"categories" : [
+			"dinner"
+		],
+		"serves" : "4",
+		"prep" : "30 minutes",
+		"wait" : "30 minutes",
+		"ingredients" : [
+			"1 cup frozen chopped spinach, thawed",
+			"1 pound lean ground turkey",
+			"1/2 cup crumbled feta cheese",
+			"1/2 tsp garlic powder",
+			"1/2 tsp dried oregano",
+			"1/4 tsp salt",
+			"1/4 tsp ground pepper",
+			"4 small hamburger buns",
+			"4 Tbs tzatziki",
+			"12 slices cucumber",
+			"8 thick rings red onion"
+		],
+		"instructions" : [
+			"Preheat grill to medium-high.",
+			"Combine the spinach with the turkey, feta, garlic powder, oregano, salt, and pepper in a medium bowl and mix well.",
+			"Form into four 4-inch patties.",
+			"Grill the patties on an oiled grill rack until cooked through and no longer pink in the center, 4 to 6 minutes per side (165)",
+			"Assemble the burgers on the buns, topping each with 1 Tbs. tzatziki, 3 cucumber slices, and 2 onion rings",
+			"(to make your own at home by combining plain greek yogurt with a squuze of lemon, dill, and finely chopped cucumer)."
+		]
+	},
+	{
+		"designation" : 29,
+		"title" : "Shrimp and Artichoke Kabobs",
+		"categories" : [
+			"dinner"
+		],
+		"serves" : "6",
+		"prep" : "10 minutes",
+		"wait" : "45 minutes",
+		"ingredients" : [
+			"9 oz uncooked fresh linguini",
+			"1 lb. (about 24 medium) fresh or frozen raw shrimp",
+			"11 medium red onion, cut into 12 wedges",
+			"2 (6 oz jars) marinated artichokes, reserve marinade",
+			"6 (12-inch) metal skewers",
+			"Basting Sauce",
+			"2 tsp dried basil leaves",
+			"1/2 tsp salt",
+			"1/2 tsp coarsely ground pepper",
+			"Dash cayenne papper",
+			"1/2 tsp finely chopped fresh garlic",
+			"2 Tbs olive or vegetable oil",
+			"2 tsp grated lemon peel"
+		],
+		"instructions" : [
+			"Prepare grill; heat until coals are ash white.",
+			"Cook linguini according to package directions; drain.",
+			"Place in large bowl; set aside.",
+			"Meanwhile, peel and devein shrimp, leaving tail intact (if shrimp are frozen, do not thaw; peel under running cold water).",
+			"Alternate shrim, onion, and artichokes on skewers.",
+			"In small bowl stir together 2 Tbs. reserved marinade and all basting sauce ingredients except lemon peel; brush over kabobs.",
+			"Place kabobs on grill.  Grill, basting and turning occasionally for 7-10 minutes or until shrimp turn pink.",
+			"Meanwhile, add remaining artichoke marinade and lemon peel to linguini; toss to coat.",
+			"Serve linguini with kabobs."
 		]
 	}
 ]
