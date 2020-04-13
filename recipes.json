@@ -1,840 +1,1449 @@
 {
-"name" : "Minke Recipe Collection",
-"recipes" : [
-	{
-		"designation" : 0,
-		"title" : "Chocolate PB Smoothie",
-		"categories" : [
-			"smoothie",
-			"dessert"
-		],
-		"serves" : "1",
-		"prep" : "2 minute",
-		"wait" : "1 minute",
-		"ingredients" : [
-			"2 bananas - cut into chunks and frozen",
-			"2 Tablespoons creamy peanut butter",
-			"1 Cup milk",
-			"1/2 Teaspoon vanilla extract",
-			"1/4 Cup chocolate chips"
-		],
-		"instructions" : [
-			"Toss all ingredients in a blender and blend until smooth."
-		]
-	},
-	{
-		"designation" : 1,
-		"title" : "Hearth Bread",
-		"categories" : [
-			"bread",
-			"snack"
-		],
-		"serves" : "2 large loaves",
-		"prep" : "20 minutes",
-		"wait" : "3 hours",
-		"ingredients" : [
-			"2 1/4 Teaspoon instant yeast",
-			"1 Tablespoon sugar",
-			"1 Tablespoon salt",
-			"2 Cups lukewarm water",
-			"5 1/2 to 6 Cups unbleached all-purpose flour",
-			"cornmeal - for sprinkling on the pan"
-		],
-		"instructions" : [
-			"Mix all of the ingredients together, using the smaller amount of flour. Mix thoroughly until the dough pulls away from the sides of the bowl, adding more of the flour if necessary. Turn the dough out onto a floured surface to knead.",
-			"Knead the bread for about 5 minutes, sprinkling only enough flour on the kneading surface to prevent sticking. Let the dough rest for a couple minutes and then knead again for 2 to 3 minutes.",
-			"Grease a bowl and place the dough inside. Turn it over once to grease the top. Cover with plastic wrap and place in a warm, draft-free place. Wait for the dough to double in bulk, about 1 to 2 hours",
-			"Gently deflate the dough. Cut it in half and shape into 2 oval Italian-style loaves. Place the loaves on a baking sheet generously sprinkled with cornmeal. Let the loaves rest for 5 minutes.",
-			"Lightly slash the tops of the loaves three or more times diagonally and brush them with cold water. Place the pan on the middle rack of a cold oven with a roasting filled about 1 inch deep with boiling water on the oven bottom. Set the oven temperature to 450°F, and turn on the oven.",
-			"Bake the bread for 35 to 45 minutes, until the crust is golden brown and sounds hollow to the touch. Its interior temperature should register at least 190°F on a digital thermometer.",
-			"Remove the loaves from the oven, take them off the pan, and return them to the oven, placing them right on the rack. Turn the oven off and crack the door open several inches. Let the loaves cool in the cooling oven; this will make them extra-crusty.",
-			"Store completely cool bread in a paper bag at room temperature for a couple of days. For longer storage, wrap well and freeze."
-		]
-	},
-	{
-		"designation" : 2,
-		"title" : "Easy Chicken Parm",
-		"categories" : [
-			"dinner"
-		],
-		"serves" : "4",
-		"prep" : "15 minutes",
-		"wait" : "30 minutes",
-		"ingredients" : [
-			"4 boneless chicken breasts, pounded to 1/2 inch thickness",
-			"1 large egg",
-			"1/2 Cup milk",
-			"seasoned breadcrumbs",
-			"2 - 3 Tablespoons olive oil",
-			"8 Slices mozzarella cheese",
-			"16 Oz spaghetti sauce",
-			"8 Oz spaghetti",
-			"parmesan cheese"
-		],
-		"instructions" : [
-			"Heat the oven to 350° F (180° C/Gas 4). Lightly grease a 9 x 13-inch baking dish.",
-			"Whisk together the egg and milk in a bowl.",
-			"Put the seasoned breadcrumbs in a wide, shallow bowl.",
-			"Dip the chicken breasts in milk and egg mixture and then in breadcrumbs, turning to coat thoroughly.",
-			"Heat the olive oil in a large skillet or saute pan over medium-high heat.",
-			"Brown the chicken in the hot oil on both sides until golden brown, about 3 to 4 minutes on each side.",
-			"Arrange the chicken in the prepared baking dish.",
-			"Slice 8 pieces of mozzarella cheese and put two on each chicken breast. Pour 1 jar of your favorite spaghetti sauce over all. Sprinkle with Parmesan cheese and a little more mozzarella and bake for about 25 to 30 minutes, or until bubbly.",
-			"Meanwhile, cook the spaghetti or linguine in boiling salted water following package directions. Drain well."
-		]
-	},
-	{
-		"designation" : 3,
-		"title" : "Easy White Bread",
-		"categories" : [
-			"bread",
-			"snack"
-		],
-		"serves" : "1 large loaf",
-		"prep" : "20 minutes",
-		"wait" : "2.5 hours",
-		"ingredients" : [
-			"500 Grams strong white flour",
-			"2 Teaspoons salt",
-			"7 Grams sachet fast-action yeast",
-			"3 Tablespoons olive oil",
-			"300 ml water"
-		],
-		"instructions" : [
-			"Mix the flour, salt and yeast in a large bowl. Make a well in the centre, then add the oil and water, and mix well. If the dough seems a little stiff, add 1-2 tbsp water, mix well then tip onto a lightly floured work surface and knead. Once the dough is satin-smooth, place it in a lightly oiled bowl. Leave to rise for 1 hour until doubled in size or place in the fridge overnight.",
-			"Line a baking tray with baking parchment. Knock back the dough, then gently mould the dough into a ball. Place it on the baking parchment to prove for a further hour until doubled in size.",
-			"Heat oven to 220C/fan 200C/gas 7. Dust the loaf with flour and cut a cross about 6cm long into the top of the loaf with a sharp knife. Bake for 25-30 mins until golden brown and the loaf sounds hollow when tapped underneath. Cool on a wire rack."
-		]
-	},
-	{
-		"designation" : 4,
-		"title" : "Over Roasted Hamburgers",
-		"categories" : [
-			"dinner"
-		],
-		"serves" : "6",
-		"prep" : "10 minutes",
-		"wait" : "15 minutes",
-		"ingredients" : [
-			"1 1/2 Teaspoons kosher salt",
-			"2 Pounds ground beef",
-			"1 Tablespoon Worcestershire sauce",
-			"1/2 Teaspoon ground pepper",
-			"6 toasted hamburger buns"
-		],
-		"instructions" : [
-			"Position a rack in the center of the oven and heat to 475 degrees (450 degrees in a convection oven). Line a heavy-duty rimmed baking sheet with aluminum foil, and spread a thin layer of salt over the surface of the foil to absorb any drippings and prevent the oven from smoking. Arrange a wire rack so that it sits at least 3/4 inch above the surface of the pan.",
-			"Break the beef into 1- to 2-inch lumps with your hands and drop into a mixing bowl. Season with salt, Worcestershire, and a generous amount of black pepper. Mix gently, using your fingertips to break up the meat and incorporate the seasonings. Over-handling the beef will make for tough, dry burgers.",
-			"Divide the meat into 6 portions. Lightly shape the beef into disks about 3 1/4 inches across and about 1 inch thick. Set the burgers at least 1 inch apart on the wire rack.",
-			"Roast the burgers for 10 to 16 minutes, checking on them either with an instant-read thermometer (the quickest way) or by cutting into one to peek. For medium-rare, look for 130 to 135 degrees; for medium, 140 degrees; for medium-well, 160 degrees. If adding cheese, top the burgers with cheese when they are about 2 degrees away from being done to your liking and return them to the oven for 1 minute to melt the cheese.",
-			"Transfer the burgers to buns, English muffins, split focaccia, or favorite bread and garnish as you like."
-		]
-	},
-	{
-		"designation" : 5,
-		"title" : "Easy Sourdough Bread",
-		"categories" : [
-			"bread",
-			"snack"
-		],
-		"serves" : "1 large loaf",
-		"prep" : "10 minutes",
-		"wait" : "9 hours",
-		"ingredients" : [
-			"3 Cups bread flour",
-			"1 17.6 Ounce tub plain unsweetened Greek yogurt with active cultures",
-			"1/2 - 1 Cup sour cream",
-			"1 Teaspoon salt",
-			"Scant 1 Teaspoon instant dry yeast"
-		],
-		"instructions" : [
-			"To the bowl of a stand mixer fitted with the dough hook (or use a large mixing bowl and wooden spoon and your hands), add the flour, Greek yogurt, 1/2 cup sour cream, salt, and yeast.",
-			"Turn mixer on low speed and allow it to knead dough for about 5 to 7 minutes (about 7 to 10 minutes by hand using a wooden spoon and then switching to your hands). Add sour cream as needed to form a very moist and wet dough. If it's at all dry or crumbly, add more sour cream (or Greek yogurt) until it comes together. I used one-17.6 ounce tub of Greek yogurt and almost 1 cup lite sour cream. Dough will be seem like it's almost too wet and it's very heavy, but this is what you want. Err on the side of wetter than drier because flour and yeast love moisture when rising.",
-			"Remove dough from the mixing bowl, spray a large bowl with cooking spray, pat dough into a round ball, place it in the bowl, and flip it over once so it's lightly oiled on both top and bottom. It will look like a dimply head of cauliflower.",
-			"Cover bowl with plasticwrap (spray it with cooking spray in case dough rises high enough to touch it) and place bowl in a warm, draft-free place to rise for about 6 to 8 hours (I did 6 1/2 hours), or doubled in size. If you want to start this before work or before bed and made as an overnight dough and it'll go 8-10 hours, that's fine. There's really no harm in letting it rise for up to 18 hours and the longer you let it go, the more of a classic sourdough/fermented flavor that will develop. If you suspect you're going to allow it to rise on the longer side (12-18 hours), reduce yeast to about 1/2 teaspoon so dough doesn't get too puffy and overflow the bowl.",
-			"After 6+ hours of rising, turn dough out onto a floured surface (without punching it down to preserve the air pockets and bubbles that have been created) and knead lightly for about 2 to 3 minutes.",
-			"Pat dough into a round mound, and place it back into large mixing bowl, seam side down. Cover with plastic wrap, and allow to rise for 60 to 120 minutes, or until doubled in size (I did 60 minutes; I suspect the longer you let the second rise go, the more 'holey' the bread will be). Placing the bowl on the stovetop is a nice spot for this rise because you're going to turn on the oven and the residual heat emitted helps with rising.",
-			"Shortly after dough begins the 60-120 minute rising, turn oven on to 450F and place a covered Dutch oven (empty) or heavy-bottomed skillet into the oven and allow it to heat for about 45 minutes. Dutch ovens are so heavy and take so long to get truly hot, and when you're ready to bake the bread, you want the Dutch oven screaming hot.",
-			"After about 60-90 minutes or dough has doubled in size, remove Dutch oven from oven (careful, it's screaming hot, use two pairs of hot mitts) and carefully place a piece of parchment paper on the bottom of Dutch oven to prevent bread from sticking.",
-			"Carefully transfer dough from rising bowl to Dutch oven, cover it, and bake covered for 30 minutes. Don't open the oven door or the Dutch oven lid to peek; you want to seal in the steam.",
-			"After 30 minutes, uncover the Dutch oven, and allow bread to bake uncovered for 5 to 10 minutes (I did 8 minutes) or until it's as browned as desired. Traditional sourdough has a darker crust than most bread (sometimes almost burnt-looking, but I prefer mine on the lighter side).",
-			"Remove Dutch oven from oven, and remove bread from Dutch oven. Place it on a wire rack to cool completely before slicing. As tempting as it is, don't slice too early because the cooling process is important and should be considered an important extension of the baking process. Slice or break off hunks, and serve with honey butter, butter, jam, hummus, etc. Bread is best fresh, but will keep airtight at room temp for up to 3 days. Older bread may be better toasted."
-		]
-	},
-	{
-		"designation" : 6,
-		"title" : "Challah Bread",
-		"categories" : [
-			"bread",
-			"snack"
-		],
-		"serves" : "2 loaves",
-		"prep" : "10 minutes",
-		"wait" : "3.5 hours",
-		"ingredients" : [
-			"Scant 1 Cup water, warmed to about 110F",
-			"2 1/4 Teaspoons active dry yeast",
-			"2 large eggs",
-			"1/4 Cup canola or vegetable oil",
-			"1/4 Cup honey",
-			"3/4 Tablespoons salt (optionally use less to no salt)",
-			"3 1/2 Cups all-purpose flour",
-			"1 large egg, for eggwash"
-		],
-		"instructions" : [
-			"Making the Dough - Add the water to a glass measuring cup or microwave-safe bowl and warm the water to temperature, about 30 seconds on high power. Using a thermometer, check the temperature. If you don't have a thermometer, when inserting your finger, it should feel warm but not hot. Add the water to the bowl of a stand mixer fitted with the paddle attachment. Sprinkle the yeast over the water and let stand for 5 to 10 minutes.",
-			"Add 2 eggs, honey, oil (or butter), salt to taste, and mix on low speed for about 2 minutes, until well combined. Remove the paddle, put on the dough hook, and add 3 cups flour. With the mixer on low speed, allow hook to fold in the flour; it will take a minute or two. Sprinkle in the remaining ½ cup flour and allow it to become just incorporated; don't move into actively kneading the dough; just incorporate the flour and turn mixer off.",
-			"Turn dough out into a lightly greased large mixing bowl (do not knead it), cover bowl with plasticwrap, and allow it to rise in a warm place until doubled in volume, about 2 hours. Punch dough down and either move on to the next step (baking it) or dough can be stored in refrigerator for up to 5 days before baking it later. If baking later, place all the dough into a large bowl or container with a lid, allowing the lid to remain slightly ajar so there is a tiny bit of airflow, and refrigerate dough until you are ready to move onto the next step, Baking Day.",
-			"Baking Day - You can move onto this step immediately after the 2-hour rise, or after the dough has been refrigerated for day(s).",
-			"Divide dough in half; set aside other for later or make two loaves now. If dough is sticky, use floured hands to work with it. Place dough on a Silpat Non-Stick Baking Mat , adding a bit flour if necessary, or place it onto a floured work surface. Divide dough into 3 equal portions. Roll each portion out into a 12-inch long cylinder. The dough is very springy and will want to recoil and shrink back but be patient and keep stretching it or rolling it, either with your hands, a rolling pin, or just stretching it out as best you can; previously refrigerated dough behaves better and has less of a mind of its own.",
-			"After you have 3 long cylinders about 1-inch each in diameter, place them on the baking mat and baking tray where you plan to bake them. Pinch one end of all three together and start braiding down, just like you're braiding hair. After you've reached the end, gently pinch off and tuck the ends underneath the loaf, just making it neat. Cover dough with plastic wrap and allow it to rise in a warm place for 40 minutes if using fresh dough, or for 1 hour 20 minutes if using previously refrigerated dough (even though my dough was fresh, I allowed it to rise for closer to 1 hour rather than just 40 minutes on the baking tray, placed on top of the preheating oven). Preheat oven to 350F midway through this rise.",
-			"Beat 1 egg and immediately prior to baking, brush eggwash all over loaf (I use about half of the egg as I don't want bread to get too 'eggy', just shiny). Sprinkle with optional sesame or poppy seeds (I use neither). Bake for 22 to 25 minutes, or until challah is a pale golden and set. Tthe internal temperature should be ~190F however I judge by color. Allow bread to cool before slicing or pulling apart and serving. I store bread wrapped in plasticwrap, then placed in a ziptop food storage bag or in an airtight container at room temperature for up to 5 days or in the freezer for up to 3 months.",
-			"With the other remaining half of unbaked dough, it can be refrigerated for up to 5 days and then should be used; or it can be frozen and then thawed, and used. This dough may be used for more challah; raisins may be added, or used in dinner rolls, cinnamon rolls; or get creative with it."
-		]
-	},
-	{
-		"designation" : 7,
-		"title" : "Mom's Italian Bread",
-		"categories" : [
-			"bread",
-			"snack"
-		],
-		"serves" : "2 loaves",
-		"prep" : "30 minutes",
-		"wait" : "2 hours",
-		"ingredients" : [
-			"1/4 Ounce active dry yeast",
-			"2 Cups warm water (110F)",
-			"1 Teaspoon sugar",
-			"2 Teaspoons salt",
-			"5 1/2 Cups all-purpose flour"
-		],
-		"instructions" : [
-			"In a large bowl, dissolve yeast in warm water. Add the sugar, salt and 3 cups flour. Beat on medium speed for 3 minutes. Stir in remaining flour to form a soft dough.",
-			"Turn onto a floured surface; knead until smooth and elastic, about 6-8 minutes. Place in a greased bowl, turning once to grease the top. Cover and let rise in a warm place until doubled, about 1 hour.",
-			"Punch dough down. Turn onto a floured surface; divide in half. Shape each portion into a loaf. Place each loaf seam side down on a greased baking sheet. Cover and let rise until doubled, about 30 minutes.",
-			"Meanwhile, preheat oven to 400°. With a sharp knife, make four shallow slashes across top of each loaf. Bake 20-25 minutes or until golden brown. Remove from pans to wire racks to cool. Yield: 2 loaves (12 slices each)."
-		]
-	},
-	{
-		"designation" : 8,
-		"title" : "Easy Bagels",
-		"categories" : [
-			"breakfast",
-			"bread"
-		],
-		"serves" : "12 bagels",
-		"prep" : "30 minutes",
-		"wait" : "30 minutes",
-		"ingredients" : [
-			"4 - 5 Cups flour",
-			"1 Tablespoon brown sugar",
-			"1 Tablespoon dry yeast",
-			"1 Tablespoon canola oil",
-			"1 1/2 Cups warm water"
-		],
-		"instructions" : [
-			"Preheat Oven to 450°.",
-			"Mix yeast with warm water and sugar and stir. Set aside for 5 minutes.",
-			"Add 1 cup of flour at a time to the yeast mixture and salt and oil.",
-			"Mix together, when it starts to get stiff use your hands.",
-			"Put on floured counter and knead until smooth.",
-			"In the meantime, boil a large pot of water for 15 minutes.",
-			"Once dough is well kneaded, cut into twelve even pieces.",
-			"Roll pieces and form into bagel shapes.",
-			"Rest for 15 minutes on a greased baking sheet covered with a towel.",
-			"Boil 4 at a time, 30 seconds per side.",
-			"While wet, sprinkle with salt/sesame seeds, etc.",
-			"Put on a baking sheet and bake for about 10 minutes, or until the tops are golden brown."
-		]
-	},
-	{
-		"designation" : 9,
-		"title" : "Slow Cooker Honey BBQ Drumsticks",
-		"categories" : [
-			"dinner"
-		],
-		"serves" : "2",
-		"prep" : "10 minutes",
-		"wait" : "8 hours",
-		"ingredients" : [
-			"8 chicken drumsticks, skin removed",
-			"1 (18 oz) bottle BBQ sauce",
-			"1/4 Cup honey"
-		],
-		"instructions" : [
-			"Spray slow cooker with cooking spray.",
-			"Place drumsticks inside. Evenly distribute them as best as possible.",
-			"In a medium bowl, combine BBQ sauce and honey. Pour evenly over drumsticks.",
-			"Cover and cook on LOW for 6 - 8 hours or until done."
-		]
-	},
-	{
-		"designation" : 10,
-		"title" : "Chocolate Chip Banana Bread",
-		"categories" : [
-			"bread",
-			"snack",
-			"dessert"
-		],
-		"serves" : "1 loaf",
-		"prep" : "10 minutes",
-		"wait" : "70 minutes",
-		"ingredients" : [
-			"1/4 Cup vegetable oil",
-			"1 1/2 Cups flour",
-			"1 Cup sugar",
-			"1 Teaspoon baking soda",
-			"1/2 Teaspoon salt",
-			"2 eggs, lightly beaten",
-			"3 bananas, mashed",
-			"1 Cup chocolate chips"
-		],
-		"instructions" : [
-			"Preheat the oven to 350 F.",
-			"Grease and flour a 8 1/2 inch x 4 1/2 inch loaf pan",
-			"In a large bowl, whisk together the flour, sugar, baking soda and salt.",
-			"Mix in the oil, bananas, and eggs.",
-			"Stir in the chocolate chips (do not overmix!) and pour into the prepared pan.",
-			"Bake until a toothpick inserted in the center comes out clean, about 60-80 minutes.",
-			"Cool the loaf in the pan for 10 minutes, then turn out and cool completely, right side up."
-		]
-	},
-	{
-		"designation" : 11,
-		"title" : "Baked Chicken Parm",
-		"categories" : [
-			"dinner"
-		],
-		"serves" : "4",
-		"prep" : "10 minutes",
-		"wait" : "30 minutes",
-		"ingredients" : [
-			"4 chicken breasts, fat trimmed, sliced in half",
-			"3/4 Cup seasoned breadcrumbs",
-			"1/4 Cup grated Parmesan cheese",
-			"2 Tablespoons butter, melted (or olive oil)",
-			"3/4 Cup mozzarella cheese",
-			"1 Cup marinara"
-		],
-		"instructions" : [
-			"Preheat oven to 450 F. Spray a large baking sheet lightly with spray.",
-			"Combine breadcrumbs and parmesan cheese in a bowl. Melt the butter in another bowl. Lightly brush the butter onto the chicken, then dip into breadcrumb mixture.  Place on baking sheet and repeat with the remaining chicken.",
-			"Lightly spray a little more oil on top and bake in the oven for 25 minutes.",
-			"Remove from oven, spoon 1 Tablespoon sauce over each piece of chicken and top each with 1 and 1/2 Tablespoons of shredded mozzarella cheese.",
-			"Bake for 5 more minutes or until cheese is melted."
-		]
-	},
-	{
-		"designation" : 12,
-		"title" : "Pork Tenderloin w/ Marinade",
-		"categories" : [
-			"dinner"
-		],
-		"serves" : "8",
-		"prep" : "10 minutes",
-		"wait" : "2 hours",
-		"ingredients" : [
-			"1 or 2 pork tenderloin",
-			"1/4 Cup sugar",
-			"1/4 Cup olive oil",
-			"1/3 Cup soy sauce",
-			"1 Bottle (small) hoisen sauce"
-		],
-		"instructions" : [
-			"Put all ingredients in ziplock, mix.",
-			"Add tenderloin to ziplock.",
-			"Let sit for 1 - 2 hours or overnight.",
-			"Preheat grill to 375 F.",
-			"Cook 30 minutes and turn every 10 - 15 minutes.",
-			"Let sit for 10 minutes before serving.",
-			"While cooking, boil marinade over low temp and serve with meat."
-		]
-	},
-	{
-		"designation" : 13,
-		"title" : "Chocolate Peanut Butter Balls",
-		"categories" : [
-			"snack"
-		],
-		"serves" : "10",
-		"prep" : "15 minutes",
-		"wait" : "1 hour",
-		"ingredients" : [
-			"1 Cup peanut butter or almond butter",
-			"1/4 Cup honey",
-			"3 Cup old fashioned oats",
-			"2 - 3 Scoops chocolate protein powder",
-			"1/3 Cup water"
-		],
-		"instructions" : [
-			"Mix all ingredients.",
-			"Roll into 1 inch balls.",
-			"Freeze and leave frozen.",
-			"Take out to eat immediately or pack for a later snack."
-		]
-	},
-	{
-		"designation" : 14,
-		"title" : "Peanut Butter Bites",
-		"categories" : [
-			"snack"
-		],
-		"serves" : "6",
-		"prep" : "15 minutes",
-		"wait" : "1 hour",
-		"ingredients" : [
-			"1/2 Cup peanut or almond butter",
-			"1/4 Cup honey",
-			"1 - 2 Scoops protein powder",
-			"1/4 Cup water",
-			"2 Cups oats"
-		],
-		"instructions" : [
-			"Mix all ingredients.",
-			"Roll into 1 inch balls.",
-			"Freeze and leave frozen.",
-			"Take out to eat immediately or pack for a later snack."
-		]
-	},
-	{
-		"designation" : 15,
-		"title" : "Express Bagels",
-		"categories" : [
-			"bread",
-			"breakfast"
-		],
-		"serves" : "6",
-		"prep" : "30",
-		"wait" : "1 hour",
-		"ingredients" : [
-			"2 1/2 Cups bread flour",
-			"1/2 Teaspoon instant dry yeast",
-			"1 Tablespoon sugar",
-			"1 Teaspoon salt",
-			"1 Cup lukewarm water"
-		],
-		"instructions" : [
-			"Put flour, sugar, and salt into large bowl and mix lightly. Add yeast and water, then knead together ingredients with hands. The dough will be sticky at first.",
-			"Once you have combined the ingredients into a manageable dough, take out the dough onto a flat kneading surface. Knead dough firmly with your hands until the dough is no longer lumpy and powdery, approximately 15min. Add sprinkles of water or flour as necessary to keep the dough manageable -- it will get elastic but pretty stiff.",
-			"Cut dough into 6 pieces. Shape each piece into a ball. Cover with plastic wrap or a damp paper towel to prevent drying.",
-			"Shape the dough. You can either poke a hole in the middle with your finger and stretch out into a bagel shape or roll out the dough into a rope and tie the ends together. The dough will expand, so leave a nice big hole in the middle.",
-			"Cover the bagels with plastic wrap and let rest for about 15 minutes (30-40 min during winter time).",
-			"In the meantime, fill a large pot with water and a teaspoon of sugar or honey and bring to a simmer. Preheat oven to 375 degrees.",
-			"When the dough is ready, carefully drop them into the water and let them simmer for about 15 seconds on each side, flipping them only once. The bagels should float. Keeping the water boiling too hard or flipping too much will cause the surface of the bagels to crinkle later. I usually boil two at a time.",
-			"Take the bagels out with a slotted spoon and blot excess water. If you would like to add toppings, do so now. For small or crumbly toppings such as sesame and poppyseed, dump out the toppings on a small plate and gently press the top of the bagel into the topping.",
-			"Put the bagels onto a baking sheet and let bake until brown, approximately 15 minute."
-		]
-	},
-	{
-		"designation" : 16,
-		"title" : "BBQ Shredded Chicken",
-		"categories" : [
-			"dinner"
-		],
-		"serves" : "8",
-		"prep" : "20 minutes",
-		"wait" : "2 hours",
-		"ingredients" : [
-			"3 - 4 Pounds boneless skinless chicken thighs",
-			"Olive Oil",
-			"1 large onion, diced",
-			"2 Cloves garlic, minced",
-			"2 Teaspoons smoked paprika",
-			"2 Teaspoons salt",
-			"Freshly ground black pepper",
-			"1 1/2 Cups BBQ sauce"
-		],
-		"instructions" : [
-			"Heat the oven to 325°F. Remove the chicken from its packaging and pat it dry.",
-			"In a Dutch oven or heavy pot (with a lid) heat a drizzle of olive oil over medium heat. Cook the onion and garlic for 5 minutes or until quite soft. Add the smoked paprika and stir. Add the chicken one piece at a time, stirring to mix well with the onion. Stir in the salt and a few generous grinds of black pepper. Pour in the barbecue sauce and bring to a simmer. Turn off the heat.",
-			"Cover the pot with a heavy lid and put in the oven. Bake, covered, for 90 minutes, or until the chicken is extremely tender. Remove from the oven and use a slotted spoon to transfer the chicken to a large bowl. Use two forks to shred the chicken finely.",
-			"While you're shredding the chicken, put the sauce, uncovered, back on the stove over high heat. Bring to a boil and reduce the liquid in the pan to about half of its volume. Pour this thickened sauce over the chicken and stir.",
-			"Serve with buns, slaw, avocado, and extra barbecue sauce on the side. Refrigerate for up to 5 days or freeze for up to 3 months.",
-			"Slow-cooker instructions: Follow the recipe as written above, but instead of putting the chicken and sauce in the oven, pour it all into a slow cooker. Cook for 5 to 7 hours on LOW. If desired, you can lift out the chicken and reduce the sauce in a separate pan on the stovetop, but this may not be necessary; it simply depends on your preference."
-		]
-	},
-	{
-		"designation" : 17,
-		"title" : "Slow Cooker Pulled Pork",
-		"categories" : [
-			"dinner"
-		],
-		"serves" : "6",
-		"prep" : "10 minutes",
-		"wait" : "9 hours",
-		"ingredients" : [
-			"3 Pounds boneless pork shoulder, skin and excess fat removed",
-			"1 onion, chopped",
-			"1/2 Cup low-sodium chicken broth or water",
-			"2 Cups BBQ sauce",
-			"2 Tablespoons mustard",
-			"2 Tablespoons honey",
-			"1 Tablespoon soy sauce",
-			"Salt and pepper"
-		],
-		"instructions" : [
-			"Trim pork of any excess fat. Scatter onion over bottom of slow cooker and place pork on top. Add broth, cover and cook on low until very tender, about 8 hours. Remove meat and let cool.",
-			"When cool enough to handle, pull meat into thin shreds, removing all fat and gristle. Skim excess fat from liquid in slow cooker.",
-			"Return pulled pork to slow cooker and stir in barbecue sauce, mustard, honey and soy sauce. Season with salt and pepper. Cook for 1 hour longer on low. If desired, serve with hamburger buns and sides of pinto beans, corn, tomatoes and coleslaw."
-		]
-	},
-	{
-		"designation" : 18,
-		"title" : "Coconut Curry Chicken",
-		"categories" : [
-			"dinner"
-		],
-		"serves" : "6",
-		"prep" : "30 minutes",
-		"wait" : "5 hours",
-		"ingredients" : [
-			"2 Pounds chicken breast, cut into chunks",
-			"2 Tablespoons coconut oil",
-			"3 garlic cloves, minced",
-			"1 medium onion, chopped",
-			"1 (13.5 Oz) can full fat coconut milk",
-			"1 (6 Oz) can tomato paste",
-			"2 Teaspoons garam masala",
-			"1 Teaspoon curry powder",
-			"1 Teaspoon chili powder",
-			"2 Tablespoons cornstarch",
-			"1 Teaspoon fine grain sea salt",
-			"1/4 Teaspoon ground black pepper"
-		],
-		"instructions" : [
-			"Heat coconut oil in a medium skillet over medium-high heat. Add onion and garlic and saute’ for 4 to 5 minutes, until translucent. Add garam masala, curry powder and chili powder and saute’ for 1 minute, until fragrant.",
-			"Stir in coconut milk, tomato paste, salt, and pepper. Reduce the heat to low.",
-			"In a small bowl combine cornstarch with 4 tablespoons of cold water, and gently stir into the coconut milk mixture. Turn off the heat.",
-			"Grease the inside of your crockpot bowl with a bit of olive oil. Add chicken chunks, pour the sauce over it, and stir to coat. Cover and cook on low setting for 4 to 5 hours."
-		]
-	},
-	{
-		"designation" : 19,
-		"title" : "Beer Braised BBQ Pork Butt",
-		"categories" : [
-			"dinner"
-		],
-		"serves" : "8",
-		"prep" : "15 minutes",
-		"wait" : "5 hours",
-		"ingredients" : [
-			"Dry Rub:",
-			"2 Tablespoons salt",
-			"40 Grinds black pepper",
-			"2 Tablespoons chili powder",
-			"1 Tablespoon garlic powder",
-			"2 Teaspoons ground coriander",
-			"2 Teaspoons ground mustard seed",
-			"12 Oz good ale or dark beer",
-			"4 cloves garlic, chopped",
-			"1 5-Pound pork butt (shoulder of the animal)",
-			"BBQ Pork Butt:",
-			"1/2 Cup ketchup",
-			"2 Tablespoons whole grain Dijon mustard",
-			"3 Tablespoons Worcestershire sauce",
-			"1/3 Cup dark brown sugar"
-		],
-		"instructions" : [
-			"Combine rub ingredients in a bowl and mix well. Rub all over pork butt. Wrap in plastic wrap and refrigerate for at least one hour and as long as overnight.",
-			"Preheat oven to 500 degrees F. Unwrap pork and place in a roasting pan with sides about 2 inches high. Cook 45 minutes until dark browned and even blackening in places. Remove from oven. Lower oven to 325 degrees F. Pour beer over the top and add chopped garlic around the pork. Cover tightly with heavy duty aluminum foil or twice with regular foil. Poke about 10 holes all over the top of the foil. Cook pork butt 2 1/2 hours longer until so tender that it comes away very easily from center bone.",
-			"Place the meat on a plate and pour the pan juice (there will be plenty) into a saucepan.",
-			"To the pan juices add the ketchup, mustard, Worcestershire and brown sugar. Bring to a simmer until reduced by half and thick, about 20 minutes.",
-			"While the sauce is boiling down, pull apart the pork with 2 forks. Pour the sauce over the pulled pork and work through until fully absorbed."
-		]
-	},
-	{
-		"designation" : 20,
-		"title" : "Steel Cut Oats",
-		"categories" : [
-			"breakfast"
-		],
-		"serves" : "4",
-		"prep" : "5 minutes",
-		"wait" : "35 minutes",
-		"ingredients" : [
-			"3 Cups water",
-			"1 Cup milk of choice: almond, cow's, coconut, etc.",
-			"1 Tablespoon coconut oil",
-			"1 Cup steel-cut oats",
-			"1/4 Teaspoon salt"
-		],
-		"instructions" : [
-			"In a large saucepan, combine the water and milk. Bring the mixture to a simmer over medium heat. In the meantime, melt the coconut oil (or butter) in a 12-inch skillet over medium heat. Once shimmering, add the oats and cook, stirring occasionally, until golden and fragrant, around 2 minutes. This toasting step greatly enhances the flavor of the oats.",
-			"Stir the oats into the simmering water/milk mixture. Reduce the heat to medium low and simmer gently for about 20 minutes, stirring occasionally, until the mixture is very thick.",
-			"Stir in the salt. Continue to simmer the mixture, stirring occasionally and reducing heat as necessary to prevent scorching on the bottom, until almost all of the liquid is absorbed, about 10 minutes. (If you have doubled the recipe, your oatmeal might need an extra 5 minutes cooking time here.) The oatmeal will be very creamy when it’s done.",
-			"Remove from heat and stir in any mix-ins that you’d like. Let the oatmeal rest for 5 minutes before serving so it has more time to thicken up and cool down a palatable temperature.",
-			"Portion oatmeal into bowls and add any toppings you’d like to portions that you intend to serve immediately. Let any extra oatmeal cool completely before covering and refrigerating for future breakfasts."
-		]
-	},
-	{
-		"designation" : 21,
-		"title" : "Mashed Sweet Potatoes",
-		"categories" : [
-			"dinner",
-			"appetizer"
-		],
-		"serves" : "6",
-		"prep" : "15 minutes",
-		"wait" : "30 minutes",
-		"ingredients" : [
-			"6 sweet potatoes, pelled and cubed",
-			"3/4 Cup milk",
-			"1 - 2 Tablespoons butter"
-		],
-		"instructions" : [
-			"Bring a large pot of salted water to a boil. Add potatoes and cook until tender, 20 to 30 minutes.",
-			"With an electric mixer on low, blend potatoes, slowly adding milk, about 1/2 a cup at a time. Use more or less to achieve desired texture. Add butter and maple syrup to taste. Blend until smooth. Serve warm."
-		]
-	},
-	{
-		"designation" : 22,
-		"title" : "Chicken & Chorizo Paella",
-		"categories" : [
-			"dinner"
-		],
-		"serves" : "4",
-		"prep" : "10 minutes",
-		"wait" : "40 minutes",
-		"ingredients" : [
-			"1 Tablespoon olive oil",
-			"2 chicken breasts, cut into chunks",
-			"2 small onions, finely diced",
-			"1 fat garlic clove, crushed",
-			"140 Grams chorizo, sliced",
-			"1 Teaspoon turmeric",
-			"Pinch of saffron",
-			"1 Teaspoon paprika",
-			"300 Grams paella rice",
-			"180 mL chicken or vegetable stock"
-		],
-		"instructions" : [
-			"Heat the oil in a deep frying pan over a high heat. Add the chicken and brown all over – don’t cook completely. Once browned, transfer to a plate. Reduce the heat to low, add the onions and cook slowly until softened, about 10 mins.",
-			"Add the garlic, stir for 1 min, then toss in the chorizo and fry until it releases its oils. Stir in the spices, then tip in the rice. Stir to coat the rice in the oils and spices for about 2 mins, then pour in the hot stock. Bring to the boil, return the chicken to the pan and simmer for about 20 mins, stirring occasionally.",
-			"Simmer for a further 5 mins until the rice is cooked and the chicken is tender. Season well and serve."
-		]
-	},
-	{
-		"designation" : 23,
-		"title" : "Brownies",
-		"categories" : [
-			"dessert"
-		],
-		"serves" : "8",
-		"prep" : "25 minutes",
-		"wait" : "30 minutes",
-		"ingredients" : [
-			"1/2 Cup butter",
-			"1 Cup white sugar",
-			"2 eggs",
-			"1 Teaspoon vanilla extract",
-			"1/3 Cup unsweetened cocoa powder",
-			"1/2 Cup all-purpose flour",
-			"1/4 Teaspoon salt",
-			"1/4 Teaspoon baking powder"
-		],
-		"instructions" : [
-			"Preheat oven to 350 Degrees F. Grease and flour an 8-inch square pan.",
-			"Melt the butter in a large saucepan. Remove from heat and stir in sugar, eggs and vanilla.",
-			"Beat in cocoa, flour, salt, and baking powder. Spread batter into prepared pan.",
-			"Bake in preheated over for 25 to 30 minutes. Do not overcook."
-		]
-	},
-	{
-		"designation" : 24,
-		"title" : "Sausage & Shrimp Jambalaya",
-		"categories" : [
-			"dinner"
-		],
-		"serves" : "8",
-		"prep" : "20 minutes",
-		"wait" : "1 hour",
-		"ingredients" : [
-			"4 Tablespoons butter",
-			"12 Ounces andouille sausage, cut into 1/4 inch slices",
-			"3 Tablespoons paprika",
-			"2 Tablespoons ground cumin",
-			"3/4 Teaspoon cayenne pepper",
-			"2 bay leaves",
-			"2 Teaspoons salt",
-			"2 peppers, diced",
-			"4 Stalks celery, sliced 1/4 inch thick",
-			"1 onion, chopped",
-			"2 Cups uncooked brown rice",
-			"6 Cups chicken stock",
-			"1 pound large shrimp",
-			"4 green onions, sliced thin"
-		],
-		"instructions" : [
-			"Place butter and sausage in a large stockpot over medium heat; cook and stir for 5-6 minutes until sausage begins to brown.",
-			"Stir in paprika, cumin and cayenne; cook for 1 minute.",
-			"Stir in onions, celery, pepper, salt and bay leaves.",
-			"Add brown rice and stir to combine. Stir in chicken stock and turn heat to low.",
-			"Cover and cook for 45 minutes, or until the rice is just tender.",
-			"Stir in shrimp, replace lid and cook for 5 minutes.",
-			"Season with salt and pepper to taste. Serve garnished with green onion."
-		]
-	},
-	{
-		"designation" : 25,
-		"title" : "Easy Quiche",
-		"categories" : [
-			"breakfast"
-		],
-		"serves" : "4",
-		"prep" : "10 minutes",
-		"wait" : "45 minutes",
-		"ingredients" : [
-			"3 eggs",
-			"1 Cup skim milk",
-			"1/2 Cup cottage cheese",
-			"1/2 Cup grated swiss cheese",
-			"Pinch of dry mustard",
-			"1 Teaspoon salt",
-			"Sprinkle of pepper",
-			"Sprinkle of parsley",
-			"9 inch pie shell"
-		],
-		"instructions" : [
-			"Bake 9 inch pie shell",
-			"Beat eggs until frothy. Add all ingredients except swiss cheese and whip until combined.",
-			"Line baked shell with cheese.",
-			"Pour in egg mixture.",
-			"Bake in 325 F oven for 45 minutes."
-		]
-	},
-	{
-		"designation" : 26,
-		"title" : "Basic Pasta",
-		"categories" : [
-			"dinner"
-		],
-		"serves" : "4",
-		"prep" : "30 minutes",
-		"wait" : "30 minutes",
-		"ingredients" : [
-			"1 1/2 Cups Semolina Flour",
-			"1 1/2 Cups All Purpose Flour",
-			"1 Teaspoon Salt, optional",
-			"4 Eggs, beaten",
-			"Just shy 4 Tablespoons Water",
-			"Just shy 4 Tablespoons Olive Oil"
-		],
-		"instructions" : [
-			"Combine both flours and salt. Mix until even and create a well in the center.",
-			"Add beaten eggs, water, and olive oil into the well. Using a fork, slowly incorporate more and more flour into the liquid.",
-			"Turn dough out onto a flat surface and knead until smooth, around 10 minutes. Add flour as needed to prevent sticking.",
-			"Form the dough into a hockey puck shape, wrap and plastic wrap, and let sit for 20 - 30 minutes.",
-			"On a lightly floured surface, roll out dough to desired thickness and cut into reasonably sized pieces",
-			"Use the pasta extruder to flatten, and then run the sheets through the spaghetti cutter. Make sure to flour at each step to prevent sticking.",
-			"Bring a large pot of water to boil and cook pasta until tender, usually around 2 - 3 minutes."
-		]
-	},
-	{
-		"designation" : 27,
-		"title" : "Garlic Pull-Apart Bread",
-		"categories" : [
-			"bread",
-			"snack"
-		],
-		"serves" : "8",
-		"prep" : "1 hour",
-		"wait" : "2 hours",
-		"ingredients" : [
-			"3 1/2 Cups all-purpose flour",
-			"2 Tablespoons sugar",
-			"1 Packet Fleischmanns RapidRise yeast",
-			"1 Teaspoon salt",
-			"3/4 Cup milk",
-			"1/4 Cup water",
-			"1/4 Cup butter, room temp",
-			"1 egg",
-			"8 Oz mozzarella cheese",
-			"1/2 Cup butter, melted",
-			"2 Tablespoons grated Parmesan cheese",
-			"1 1/2 Teaspoons garlic powder",
-			"1 1/2 Teaspoons Italian herb seasoning"
-		],
-		"instructions" : [
-			"Combine 2 cups flour, sugar, yeast and salt into the bowl of your stand mixer and mix on low until blended. Combine milk, water and butter in a microwave-safe bowl. Microwave on high in 15 second increments until very warm but not hot to the touch (120° to 130°F. Butter won’t melt completely). Add to flour mixture and then add the egg.",
-			"Mix with the paddle attachment for 2 minutes on medium speed, scraping the bowl as needed. Add 1 cup flour; beat 2 minutes at high speed. If necessary, stir in just enough remaining flour so that the dough will form into a ball.",
-			"Lightly flour your counter top and knead the dough until smooth and elastic and dough springs back when lightly pressed with 2 fingers, about 6 to 8 minutes. (Alternately you can switch out the paddle attachment for your dough hook on the stand mixer and do this step with the dough hook).",
-			"Cover the dough with a towel and let it rest for 10 minutes.",
-			"Coat a 10- cup bundt pan with nonstick spray and set aside.",
-			"Cut the cheese into 32 pieces or cubes. Set aside.",
-			"Cut the dough into 32 pieces. Wrap each piece of dough around a piece of cheese.",
-			"For filling, combine butter, Parmesan cheese, garlic powder and Italian herb seasoning in a small bowl.",
-			"Dip each dough ball into the melted butter mixture. Place in prepared pan. Pour any remaining butter over rolls and cover with towel. Let the dough rise in warm place until doubled in size, about 45 minutes.",
-			"Preheat oven to 375°F. Bake the rolls for 25 to 30 minutes or until golden brown. Cool 5 minutes in pan, then invert on serving plate."
-		]
-	},
-	{
-		"designation" : 28,
-		"title" : "Greek Turkey Burgers with Spinach, Feta, & Tzatziki",
-		"categories" : [
-			"dinner"
-		],
-		"serves" : "4",
-		"prep" : "30 minutes",
-		"wait" : "30 minutes",
-		"ingredients" : [
-			"1 cup frozen chopped spinach, thawed",
-			"1 pound lean ground turkey",
-			"1/2 cup crumbled feta cheese",
-			"1/2 tsp garlic powder",
-			"1/2 tsp dried oregano",
-			"1/4 tsp salt",
-			"1/4 tsp ground pepper",
-			"4 small hamburger buns",
-			"4 Tbs tzatziki",
-			"12 slices cucumber",
-			"8 thick rings red onion"
-		],
-		"instructions" : [
-			"Preheat grill to medium-high.",
-			"Combine the spinach with the turkey, feta, garlic powder, oregano, salt, and pepper in a medium bowl and mix well.",
-			"Form into four 4-inch patties.",
-			"Grill the patties on an oiled grill rack until cooked through and no longer pink in the center, 4 to 6 minutes per side (165)",
-			"Assemble the burgers on the buns, topping each with 1 Tbs. tzatziki, 3 cucumber slices, and 2 onion rings",
-			"(to make your own at home by combining plain greek yogurt with a squuze of lemon, dill, and finely chopped cucumer)."
-		]
-	},
-	{
-		"designation" : 29,
-		"title" : "Shrimp and Artichoke Kabobs",
-		"categories" : [
-			"dinner"
-		],
-		"serves" : "6",
-		"prep" : "10 minutes",
-		"wait" : "45 minutes",
-		"ingredients" : [
-			"9 oz uncooked fresh linguini",
-			"1 lb. (about 24 medium) fresh or frozen raw shrimp",
-			"11 medium red onion, cut into 12 wedges",
-			"2 (6 oz jars) marinated artichokes, reserve marinade",
-			"6 (12-inch) metal skewers",
-			"Basting Sauce",
-			"2 tsp dried basil leaves",
-			"1/2 tsp salt",
-			"1/2 tsp coarsely ground pepper",
-			"Dash cayenne papper",
-			"1/2 tsp finely chopped fresh garlic",
-			"2 Tbs olive or vegetable oil",
-			"2 tsp grated lemon peel"
-		],
-		"instructions" : [
-			"Prepare grill; heat until coals are ash white.",
-			"Cook linguini according to package directions; drain.",
-			"Place in large bowl; set aside.",
-			"Meanwhile, peel and devein shrimp, leaving tail intact (if shrimp are frozen, do not thaw; peel under running cold water).",
-			"Alternate shrim, onion, and artichokes on skewers.",
-			"In small bowl stir together 2 Tbs. reserved marinade and all basting sauce ingredients except lemon peel; brush over kabobs.",
-			"Place kabobs on grill.  Grill, basting and turning occasionally for 7-10 minutes or until shrimp turn pink.",
-			"Meanwhile, add remaining artichoke marinade and lemon peel to linguini; toss to coat.",
-			"Serve linguini with kabobs."
-		]
-	}
-]
-
+	"name": "Moms Recipe Collection",
+	"recipes": [{
+			"designation": 0,
+			"title": "Chocolate PB Smoothie",
+			"categories": [
+				"smoothie",
+				"dessert"
+			],
+			"serves": "1",
+			"prep": "2 minute",
+			"wait": "1 minute",
+			"ingredients": [
+				"2 bananas - cut into chunks and frozen",
+				"2 Tablespoons creamy peanut butter",
+				"1 Cup milk",
+				"1/2 Teaspoon vanilla extract",
+				"1/4 Cup chocolate chips"
+			],
+			"instructions": [
+				"Toss all ingredients in a blender and blend until smooth."
+			]
+		},
+		{
+			"designation": 1,
+			"title": "Hearth Bread",
+			"categories": [
+				"bread",
+				"snack"
+			],
+			"serves": "2 large loaves",
+			"prep": "20 minutes",
+			"wait": "3 hours",
+			"ingredients": [
+				"2 1/4 Teaspoon instant yeast",
+				"1 Tablespoon sugar",
+				"1 Tablespoon salt",
+				"2 Cups lukewarm water",
+				"5 1/2 to 6 Cups unbleached all-purpose flour",
+				"cornmeal - for sprinkling on the pan"
+			],
+			"instructions": [
+				"Mix all of the ingredients together, using the smaller amount of flour. Mix thoroughly until the dough pulls away from the sides of the bowl, adding more of the flour if necessary. Turn the dough out onto a floured surface to knead.",
+				"Knead the bread for about 5 minutes, sprinkling only enough flour on the kneading surface to prevent sticking. Let the dough rest for a couple minutes and then knead again for 2 to 3 minutes.",
+				"Grease a bowl and place the dough inside. Turn it over once to grease the top. Cover with plastic wrap and place in a warm, draft-free place. Wait for the dough to double in bulk, about 1 to 2 hours",
+				"Gently deflate the dough. Cut it in half and shape into 2 oval Italian-style loaves. Place the loaves on a baking sheet generously sprinkled with cornmeal. Let the loaves rest for 5 minutes.",
+				"Lightly slash the tops of the loaves three or more times diagonally and brush them with cold water. Place the pan on the middle rack of a cold oven with a roasting filled about 1 inch deep with boiling water on the oven bottom. Set the oven temperature to 450°F, and turn on the oven.",
+				"Bake the bread for 35 to 45 minutes, until the crust is golden brown and sounds hollow to the touch. Its interior temperature should register at least 190°F on a digital thermometer.",
+				"Remove the loaves from the oven, take them off the pan, and return them to the oven, placing them right on the rack. Turn the oven off and crack the door open several inches. Let the loaves cool in the cooling oven; this will make them extra-crusty.",
+				"Store completely cool bread in a paper bag at room temperature for a couple of days. For longer storage, wrap well and freeze."
+			]
+		},
+		{
+			"designation": 2,
+			"title": "Easy Chicken Parm",
+			"categories": [
+				"dinner"
+			],
+			"serves": "4",
+			"prep": "15 minutes",
+			"wait": "30 minutes",
+			"ingredients": [
+				"4 boneless chicken breasts, pounded to 1/2 inch thickness",
+				"1 large egg",
+				"1/2 Cup milk",
+				"seasoned breadcrumbs",
+				"2 - 3 Tablespoons olive oil",
+				"8 Slices mozzarella cheese",
+				"16 Oz spaghetti sauce",
+				"8 Oz spaghetti",
+				"parmesan cheese"
+			],
+			"instructions": [
+				"Heat the oven to 350° F (180° C/Gas 4). Lightly grease a 9 x 13-inch baking dish.",
+				"Whisk together the egg and milk in a bowl.",
+				"Put the seasoned breadcrumbs in a wide, shallow bowl.",
+				"Dip the chicken breasts in milk and egg mixture and then in breadcrumbs, turning to coat thoroughly.",
+				"Heat the olive oil in a large skillet or saute pan over medium-high heat.",
+				"Brown the chicken in the hot oil on both sides until golden brown, about 3 to 4 minutes on each side.",
+				"Arrange the chicken in the prepared baking dish.",
+				"Slice 8 pieces of mozzarella cheese and put two on each chicken breast. Pour 1 jar of your favorite spaghetti sauce over all. Sprinkle with Parmesan cheese and a little more mozzarella and bake for about 25 to 30 minutes, or until bubbly.",
+				"Meanwhile, cook the spaghetti or linguine in boiling salted water following package directions. Drain well."
+			]
+		},
+		{
+			"designation": 3,
+			"title": "Easy White Bread",
+			"categories": [
+				"bread",
+				"snack"
+			],
+			"serves": "1 large loaf",
+			"prep": "20 minutes",
+			"wait": "2.5 hours",
+			"ingredients": [
+				"500 Grams strong white flour",
+				"2 Teaspoons salt",
+				"7 Grams sachet fast-action yeast",
+				"3 Tablespoons olive oil",
+				"300 ml water"
+			],
+			"instructions": [
+				"Mix the flour, salt and yeast in a large bowl. Make a well in the centre, then add the oil and water, and mix well. If the dough seems a little stiff, add 1-2 tbsp water, mix well then tip onto a lightly floured work surface and knead. Once the dough is satin-smooth, place it in a lightly oiled bowl. Leave to rise for 1 hour until doubled in size or place in the fridge overnight.",
+				"Line a baking tray with baking parchment. Knock back the dough, then gently mould the dough into a ball. Place it on the baking parchment to prove for a further hour until doubled in size.",
+				"Heat oven to 220C/fan 200C/gas 7. Dust the loaf with flour and cut a cross about 6cm long into the top of the loaf with a sharp knife. Bake for 25-30 mins until golden brown and the loaf sounds hollow when tapped underneath. Cool on a wire rack."
+			]
+		},
+		{
+			"designation": 4,
+			"title": "Over Roasted Hamburgers",
+			"categories": [
+				"dinner"
+			],
+			"serves": "6",
+			"prep": "10 minutes",
+			"wait": "15 minutes",
+			"ingredients": [
+				"1 1/2 Teaspoons kosher salt",
+				"2 Pounds ground beef",
+				"1 Tablespoon Worcestershire sauce",
+				"1/2 Teaspoon ground pepper",
+				"6 toasted hamburger buns"
+			],
+			"instructions": [
+				"Position a rack in the center of the oven and heat to 475 degrees (450 degrees in a convection oven). Line a heavy-duty rimmed baking sheet with aluminum foil, and spread a thin layer of salt over the surface of the foil to absorb any drippings and prevent the oven from smoking. Arrange a wire rack so that it sits at least 3/4 inch above the surface of the pan.",
+				"Break the beef into 1- to 2-inch lumps with your hands and drop into a mixing bowl. Season with salt, Worcestershire, and a generous amount of black pepper. Mix gently, using your fingertips to break up the meat and incorporate the seasonings. Over-handling the beef will make for tough, dry burgers.",
+				"Divide the meat into 6 portions. Lightly shape the beef into disks about 3 1/4 inches across and about 1 inch thick. Set the burgers at least 1 inch apart on the wire rack.",
+				"Roast the burgers for 10 to 16 minutes, checking on them either with an instant-read thermometer (the quickest way) or by cutting into one to peek. For medium-rare, look for 130 to 135 degrees; for medium, 140 degrees; for medium-well, 160 degrees. If adding cheese, top the burgers with cheese when they are about 2 degrees away from being done to your liking and return them to the oven for 1 minute to melt the cheese.",
+				"Transfer the burgers to buns, English muffins, split focaccia, or favorite bread and garnish as you like."
+			]
+		},
+		{
+			"designation": 5,
+			"title": "Easy Sourdough Bread",
+			"categories": [
+				"bread",
+				"snack"
+			],
+			"serves": "1 large loaf",
+			"prep": "10 minutes",
+			"wait": "9 hours",
+			"ingredients": [
+				"3 Cups bread flour",
+				"1 17.6 Ounce tub plain unsweetened Greek yogurt with active cultures",
+				"1/2 - 1 Cup sour cream",
+				"1 Teaspoon salt",
+				"Scant 1 Teaspoon instant dry yeast"
+			],
+			"instructions": [
+				"To the bowl of a stand mixer fitted with the dough hook (or use a large mixing bowl and wooden spoon and your hands), add the flour, Greek yogurt, 1/2 cup sour cream, salt, and yeast.",
+				"Turn mixer on low speed and allow it to knead dough for about 5 to 7 minutes (about 7 to 10 minutes by hand using a wooden spoon and then switching to your hands). Add sour cream as needed to form a very moist and wet dough. If it's at all dry or crumbly, add more sour cream (or Greek yogurt) until it comes together. I used one-17.6 ounce tub of Greek yogurt and almost 1 cup lite sour cream. Dough will be seem like it's almost too wet and it's very heavy, but this is what you want. Err on the side of wetter than drier because flour and yeast love moisture when rising.",
+				"Remove dough from the mixing bowl, spray a large bowl with cooking spray, pat dough into a round ball, place it in the bowl, and flip it over once so it's lightly oiled on both top and bottom. It will look like a dimply head of cauliflower.",
+				"Cover bowl with plasticwrap (spray it with cooking spray in case dough rises high enough to touch it) and place bowl in a warm, draft-free place to rise for about 6 to 8 hours (I did 6 1/2 hours), or doubled in size. If you want to start this before work or before bed and made as an overnight dough and it'll go 8-10 hours, that's fine. There's really no harm in letting it rise for up to 18 hours and the longer you let it go, the more of a classic sourdough/fermented flavor that will develop. If you suspect you're going to allow it to rise on the longer side (12-18 hours), reduce yeast to about 1/2 teaspoon so dough doesn't get too puffy and overflow the bowl.",
+				"After 6+ hours of rising, turn dough out onto a floured surface (without punching it down to preserve the air pockets and bubbles that have been created) and knead lightly for about 2 to 3 minutes.",
+				"Pat dough into a round mound, and place it back into large mixing bowl, seam side down. Cover with plastic wrap, and allow to rise for 60 to 120 minutes, or until doubled in size (I did 60 minutes; I suspect the longer you let the second rise go, the more 'holey' the bread will be). Placing the bowl on the stovetop is a nice spot for this rise because you're going to turn on the oven and the residual heat emitted helps with rising.",
+				"Shortly after dough begins the 60-120 minute rising, turn oven on to 450F and place a covered Dutch oven (empty) or heavy-bottomed skillet into the oven and allow it to heat for about 45 minutes. Dutch ovens are so heavy and take so long to get truly hot, and when you're ready to bake the bread, you want the Dutch oven screaming hot.",
+				"After about 60-90 minutes or dough has doubled in size, remove Dutch oven from oven (careful, it's screaming hot, use two pairs of hot mitts) and carefully place a piece of parchment paper on the bottom of Dutch oven to prevent bread from sticking.",
+				"Carefully transfer dough from rising bowl to Dutch oven, cover it, and bake covered for 30 minutes. Don't open the oven door or the Dutch oven lid to peek; you want to seal in the steam.",
+				"After 30 minutes, uncover the Dutch oven, and allow bread to bake uncovered for 5 to 10 minutes (I did 8 minutes) or until it's as browned as desired. Traditional sourdough has a darker crust than most bread (sometimes almost burnt-looking, but I prefer mine on the lighter side).",
+				"Remove Dutch oven from oven, and remove bread from Dutch oven. Place it on a wire rack to cool completely before slicing. As tempting as it is, don't slice too early because the cooling process is important and should be considered an important extension of the baking process. Slice or break off hunks, and serve with honey butter, butter, jam, hummus, etc. Bread is best fresh, but will keep airtight at room temp for up to 3 days. Older bread may be better toasted."
+			]
+		},
+		{
+			"designation": 6,
+			"title": "Challah Bread",
+			"categories": [
+				"bread",
+				"snack"
+			],
+			"serves": "2 loaves",
+			"prep": "10 minutes",
+			"wait": "3.5 hours",
+			"ingredients": [
+				"Scant 1 Cup water, warmed to about 110F",
+				"2 1/4 Teaspoons active dry yeast",
+				"2 large eggs",
+				"1/4 Cup canola or vegetable oil",
+				"1/4 Cup honey",
+				"3/4 Tablespoons salt (optionally use less to no salt)",
+				"3 1/2 Cups all-purpose flour",
+				"1 large egg, for eggwash"
+			],
+			"instructions": [
+				"Making the Dough - Add the water to a glass measuring cup or microwave-safe bowl and warm the water to temperature, about 30 seconds on high power. Using a thermometer, check the temperature. If you don't have a thermometer, when inserting your finger, it should feel warm but not hot. Add the water to the bowl of a stand mixer fitted with the paddle attachment. Sprinkle the yeast over the water and let stand for 5 to 10 minutes.",
+				"Add 2 eggs, honey, oil (or butter), salt to taste, and mix on low speed for about 2 minutes, until well combined. Remove the paddle, put on the dough hook, and add 3 cups flour. With the mixer on low speed, allow hook to fold in the flour; it will take a minute or two. Sprinkle in the remaining ½ cup flour and allow it to become just incorporated; don't move into actively kneading the dough; just incorporate the flour and turn mixer off.",
+				"Turn dough out into a lightly greased large mixing bowl (do not knead it), cover bowl with plasticwrap, and allow it to rise in a warm place until doubled in volume, about 2 hours. Punch dough down and either move on to the next step (baking it) or dough can be stored in refrigerator for up to 5 days before baking it later. If baking later, place all the dough into a large bowl or container with a lid, allowing the lid to remain slightly ajar so there is a tiny bit of airflow, and refrigerate dough until you are ready to move onto the next step, Baking Day.",
+				"Baking Day - You can move onto this step immediately after the 2-hour rise, or after the dough has been refrigerated for day(s).",
+				"Divide dough in half; set aside other for later or make two loaves now. If dough is sticky, use floured hands to work with it. Place dough on a Silpat Non-Stick Baking Mat , adding a bit flour if necessary, or place it onto a floured work surface. Divide dough into 3 equal portions. Roll each portion out into a 12-inch long cylinder. The dough is very springy and will want to recoil and shrink back but be patient and keep stretching it or rolling it, either with your hands, a rolling pin, or just stretching it out as best you can; previously refrigerated dough behaves better and has less of a mind of its own.",
+				"After you have 3 long cylinders about 1-inch each in diameter, place them on the baking mat and baking tray where you plan to bake them. Pinch one end of all three together and start braiding down, just like you're braiding hair. After you've reached the end, gently pinch off and tuck the ends underneath the loaf, just making it neat. Cover dough with plastic wrap and allow it to rise in a warm place for 40 minutes if using fresh dough, or for 1 hour 20 minutes if using previously refrigerated dough (even though my dough was fresh, I allowed it to rise for closer to 1 hour rather than just 40 minutes on the baking tray, placed on top of the preheating oven). Preheat oven to 350F midway through this rise.",
+				"Beat 1 egg and immediately prior to baking, brush eggwash all over loaf (I use about half of the egg as I don't want bread to get too 'eggy', just shiny). Sprinkle with optional sesame or poppy seeds (I use neither). Bake for 22 to 25 minutes, or until challah is a pale golden and set. Tthe internal temperature should be ~190F however I judge by color. Allow bread to cool before slicing or pulling apart and serving. I store bread wrapped in plasticwrap, then placed in a ziptop food storage bag or in an airtight container at room temperature for up to 5 days or in the freezer for up to 3 months.",
+				"With the other remaining half of unbaked dough, it can be refrigerated for up to 5 days and then should be used; or it can be frozen and then thawed, and used. This dough may be used for more challah; raisins may be added, or used in dinner rolls, cinnamon rolls; or get creative with it."
+			]
+		},
+		{
+			"designation": 7,
+			"title": "Mom's Italian Bread",
+			"categories": [
+				"bread",
+				"snack"
+			],
+			"serves": "2 loaves",
+			"prep": "30 minutes",
+			"wait": "2 hours",
+			"ingredients": [
+				"1/4 Ounce active dry yeast",
+				"2 Cups warm water (110F)",
+				"1 Teaspoon sugar",
+				"2 Teaspoons salt",
+				"5 1/2 Cups all-purpose flour"
+			],
+			"instructions": [
+				"In a large bowl, dissolve yeast in warm water. Add the sugar, salt and 3 cups flour. Beat on medium speed for 3 minutes. Stir in remaining flour to form a soft dough.",
+				"Turn onto a floured surface; knead until smooth and elastic, about 6-8 minutes. Place in a greased bowl, turning once to grease the top. Cover and let rise in a warm place until doubled, about 1 hour.",
+				"Punch dough down. Turn onto a floured surface; divide in half. Shape each portion into a loaf. Place each loaf seam side down on a greased baking sheet. Cover and let rise until doubled, about 30 minutes.",
+				"Meanwhile, preheat oven to 400°. With a sharp knife, make four shallow slashes across top of each loaf. Bake 20-25 minutes or until golden brown. Remove from pans to wire racks to cool. Yield: 2 loaves (12 slices each)."
+			]
+		},
+		{
+			"designation": 8,
+			"title": "Easy Bagels",
+			"categories": [
+				"breakfast",
+				"bread"
+			],
+			"serves": "12 bagels",
+			"prep": "30 minutes",
+			"wait": "30 minutes",
+			"ingredients": [
+				"4 - 5 Cups flour",
+				"1 Tablespoon brown sugar",
+				"1 Tablespoon dry yeast",
+				"1 Tablespoon canola oil",
+				"1 1/2 Cups warm water"
+			],
+			"instructions": [
+				"Preheat Oven to 450°.",
+				"Mix yeast with warm water and sugar and stir. Set aside for 5 minutes.",
+				"Add 1 cup of flour at a time to the yeast mixture and salt and oil.",
+				"Mix together, when it starts to get stiff use your hands.",
+				"Put on floured counter and knead until smooth.",
+				"In the meantime, boil a large pot of water for 15 minutes.",
+				"Once dough is well kneaded, cut into twelve even pieces.",
+				"Roll pieces and form into bagel shapes.",
+				"Rest for 15 minutes on a greased baking sheet covered with a towel.",
+				"Boil 4 at a time, 30 seconds per side.",
+				"While wet, sprinkle with salt/sesame seeds, etc.",
+				"Put on a baking sheet and bake for about 10 minutes, or until the tops are golden brown."
+			]
+		},
+		{
+			"designation": 9,
+			"title": "Slow Cooker Honey BBQ Drumsticks",
+			"categories": [
+				"dinner"
+			],
+			"serves": "2",
+			"prep": "10 minutes",
+			"wait": "8 hours",
+			"ingredients": [
+				"8 chicken drumsticks, skin removed",
+				"1 (18 oz) bottle BBQ sauce",
+				"1/4 Cup honey"
+			],
+			"instructions": [
+				"Spray slow cooker with cooking spray.",
+				"Place drumsticks inside. Evenly distribute them as best as possible.",
+				"In a medium bowl, combine BBQ sauce and honey. Pour evenly over drumsticks.",
+				"Cover and cook on LOW for 6 - 8 hours or until done."
+			]
+		},
+		{
+			"designation": 10,
+			"title": "Chocolate Chip Banana Bread",
+			"categories": [
+				"bread",
+				"snack",
+				"dessert"
+			],
+			"serves": "1 loaf",
+			"prep": "10 minutes",
+			"wait": "70 minutes",
+			"ingredients": [
+				"1/4 Cup vegetable oil",
+				"1 1/2 Cups flour",
+				"1 Cup sugar",
+				"1 Teaspoon baking soda",
+				"1/2 Teaspoon salt",
+				"2 eggs, lightly beaten",
+				"3 bananas, mashed",
+				"1 Cup chocolate chips"
+			],
+			"instructions": [
+				"Preheat the oven to 350 F.",
+				"Grease and flour a 8 1/2 inch x 4 1/2 inch loaf pan",
+				"In a large bowl, whisk together the flour, sugar, baking soda and salt.",
+				"Mix in the oil, bananas, and eggs.",
+				"Stir in the chocolate chips (do not overmix!) and pour into the prepared pan.",
+				"Bake until a toothpick inserted in the center comes out clean, about 60-80 minutes.",
+				"Cool the loaf in the pan for 10 minutes, then turn out and cool completely, right side up."
+			]
+		},
+		{
+			"designation": 11,
+			"title": "Baked Chicken Parm",
+			"categories": [
+				"dinner"
+			],
+			"serves": "4",
+			"prep": "10 minutes",
+			"wait": "30 minutes",
+			"ingredients": [
+				"4 chicken breasts, fat trimmed, sliced in half",
+				"3/4 Cup seasoned breadcrumbs",
+				"1/4 Cup grated Parmesan cheese",
+				"2 Tablespoons butter, melted (or olive oil)",
+				"3/4 Cup mozzarella cheese",
+				"1 Cup marinara"
+			],
+			"instructions": [
+				"Preheat oven to 450 F. Spray a large baking sheet lightly with spray.",
+				"Combine breadcrumbs and parmesan cheese in a bowl. Melt the butter in another bowl. Lightly brush the butter onto the chicken, then dip into breadcrumb mixture.  Place on baking sheet and repeat with the remaining chicken.",
+				"Lightly spray a little more oil on top and bake in the oven for 25 minutes.",
+				"Remove from oven, spoon 1 Tablespoon sauce over each piece of chicken and top each with 1 and 1/2 Tablespoons of shredded mozzarella cheese.",
+				"Bake for 5 more minutes or until cheese is melted."
+			]
+		},
+		{
+			"designation": 12,
+			"title": "Pork Tenderloin w/ Marinade",
+			"categories": [
+				"dinner"
+			],
+			"serves": "8",
+			"prep": "10 minutes",
+			"wait": "2 hours",
+			"ingredients": [
+				"1 or 2 pork tenderloin",
+				"1/4 Cup sugar",
+				"1/4 Cup olive oil",
+				"1/3 Cup soy sauce",
+				"1 Bottle (small) hoisen sauce"
+			],
+			"instructions": [
+				"Put all ingredients in ziplock, mix.",
+				"Add tenderloin to ziplock.",
+				"Let sit for 1 - 2 hours or overnight.",
+				"Preheat grill to 375 F.",
+				"Cook 30 minutes and turn every 10 - 15 minutes.",
+				"Let sit for 10 minutes before serving.",
+				"While cooking, boil marinade over low temp and serve with meat."
+			]
+		},
+		{
+			"designation": 13,
+			"title": "Chocolate Peanut Butter Balls",
+			"categories": [
+				"snack"
+			],
+			"serves": "10",
+			"prep": "15 minutes",
+			"wait": "1 hour",
+			"ingredients": [
+				"1 Cup peanut butter or almond butter",
+				"1/4 Cup honey",
+				"3 Cup old fashioned oats",
+				"2 - 3 Scoops chocolate protein powder",
+				"1/3 Cup water"
+			],
+			"instructions": [
+				"Mix all ingredients.",
+				"Roll into 1 inch balls.",
+				"Freeze and leave frozen.",
+				"Take out to eat immediately or pack for a later snack."
+			]
+		},
+		{
+			"designation": 14,
+			"title": "Peanut Butter Bites",
+			"categories": [
+				"snack"
+			],
+			"serves": "6",
+			"prep": "15 minutes",
+			"wait": "1 hour",
+			"ingredients": [
+				"1/2 Cup peanut or almond butter",
+				"1/4 Cup honey",
+				"1 - 2 Scoops protein powder",
+				"1/4 Cup water",
+				"2 Cups oats"
+			],
+			"instructions": [
+				"Mix all ingredients.",
+				"Roll into 1 inch balls.",
+				"Freeze and leave frozen.",
+				"Take out to eat immediately or pack for a later snack."
+			]
+		},
+		{
+			"designation": 15,
+			"title": "Express Bagels",
+			"categories": [
+				"bread",
+				"breakfast"
+			],
+			"serves": "6",
+			"prep": "30",
+			"wait": "1 hour",
+			"ingredients": [
+				"2 1/2 Cups bread flour",
+				"1/2 Teaspoon instant dry yeast",
+				"1 Tablespoon sugar",
+				"1 Teaspoon salt",
+				"1 Cup lukewarm water"
+			],
+			"instructions": [
+				"Put flour, sugar, and salt into large bowl and mix lightly. Add yeast and water, then knead together ingredients with hands. The dough will be sticky at first.",
+				"Once you have combined the ingredients into a manageable dough, take out the dough onto a flat kneading surface. Knead dough firmly with your hands until the dough is no longer lumpy and powdery, approximately 15min. Add sprinkles of water or flour as necessary to keep the dough manageable -- it will get elastic but pretty stiff.",
+				"Cut dough into 6 pieces. Shape each piece into a ball. Cover with plastic wrap or a damp paper towel to prevent drying.",
+				"Shape the dough. You can either poke a hole in the middle with your finger and stretch out into a bagel shape or roll out the dough into a rope and tie the ends together. The dough will expand, so leave a nice big hole in the middle.",
+				"Cover the bagels with plastic wrap and let rest for about 15 minutes (30-40 min during winter time).",
+				"In the meantime, fill a large pot with water and a teaspoon of sugar or honey and bring to a simmer. Preheat oven to 375 degrees.",
+				"When the dough is ready, carefully drop them into the water and let them simmer for about 15 seconds on each side, flipping them only once. The bagels should float. Keeping the water boiling too hard or flipping too much will cause the surface of the bagels to crinkle later. I usually boil two at a time.",
+				"Take the bagels out with a slotted spoon and blot excess water. If you would like to add toppings, do so now. For small or crumbly toppings such as sesame and poppyseed, dump out the toppings on a small plate and gently press the top of the bagel into the topping.",
+				"Put the bagels onto a baking sheet and let bake until brown, approximately 15 minute."
+			]
+		},
+		{
+			"designation": 16,
+			"title": "BBQ Shredded Chicken",
+			"categories": [
+				"dinner"
+			],
+			"serves": "8",
+			"prep": "20 minutes",
+			"wait": "2 hours",
+			"ingredients": [
+				"3 - 4 Pounds boneless skinless chicken thighs",
+				"Olive Oil",
+				"1 large onion, diced",
+				"2 Cloves garlic, minced",
+				"2 Teaspoons smoked paprika",
+				"2 Teaspoons salt",
+				"Freshly ground black pepper",
+				"1 1/2 Cups BBQ sauce"
+			],
+			"instructions": [
+				"Heat the oven to 325°F. Remove the chicken from its packaging and pat it dry.",
+				"In a Dutch oven or heavy pot (with a lid) heat a drizzle of olive oil over medium heat. Cook the onion and garlic for 5 minutes or until quite soft. Add the smoked paprika and stir. Add the chicken one piece at a time, stirring to mix well with the onion. Stir in the salt and a few generous grinds of black pepper. Pour in the barbecue sauce and bring to a simmer. Turn off the heat.",
+				"Cover the pot with a heavy lid and put in the oven. Bake, covered, for 90 minutes, or until the chicken is extremely tender. Remove from the oven and use a slotted spoon to transfer the chicken to a large bowl. Use two forks to shred the chicken finely.",
+				"While you're shredding the chicken, put the sauce, uncovered, back on the stove over high heat. Bring to a boil and reduce the liquid in the pan to about half of its volume. Pour this thickened sauce over the chicken and stir.",
+				"Serve with buns, slaw, avocado, and extra barbecue sauce on the side. Refrigerate for up to 5 days or freeze for up to 3 months.",
+				"Slow-cooker instructions: Follow the recipe as written above, but instead of putting the chicken and sauce in the oven, pour it all into a slow cooker. Cook for 5 to 7 hours on LOW. If desired, you can lift out the chicken and reduce the sauce in a separate pan on the stovetop, but this may not be necessary; it simply depends on your preference."
+			]
+		},
+		{
+			"designation": 17,
+			"title": "Slow Cooker Pulled Pork",
+			"categories": [
+				"dinner"
+			],
+			"serves": "6",
+			"prep": "10 minutes",
+			"wait": "9 hours",
+			"ingredients": [
+				"3 Pounds boneless pork shoulder, skin and excess fat removed",
+				"1 onion, chopped",
+				"1/2 Cup low-sodium chicken broth or water",
+				"2 Cups BBQ sauce",
+				"2 Tablespoons mustard",
+				"2 Tablespoons honey",
+				"1 Tablespoon soy sauce",
+				"Salt and pepper"
+			],
+			"instructions": [
+				"Trim pork of any excess fat. Scatter onion over bottom of slow cooker and place pork on top. Add broth, cover and cook on low until very tender, about 8 hours. Remove meat and let cool.",
+				"When cool enough to handle, pull meat into thin shreds, removing all fat and gristle. Skim excess fat from liquid in slow cooker.",
+				"Return pulled pork to slow cooker and stir in barbecue sauce, mustard, honey and soy sauce. Season with salt and pepper. Cook for 1 hour longer on low. If desired, serve with hamburger buns and sides of pinto beans, corn, tomatoes and coleslaw."
+			]
+		},
+		{
+			"designation": 18,
+			"title": "Coconut Curry Chicken",
+			"categories": [
+				"dinner"
+			],
+			"serves": "6",
+			"prep": "30 minutes",
+			"wait": "5 hours",
+			"ingredients": [
+				"2 Pounds chicken breast, cut into chunks",
+				"2 Tablespoons coconut oil",
+				"3 garlic cloves, minced",
+				"1 medium onion, chopped",
+				"1 (13.5 Oz) can full fat coconut milk",
+				"1 (6 Oz) can tomato paste",
+				"2 Teaspoons garam masala",
+				"1 Teaspoon curry powder",
+				"1 Teaspoon chili powder",
+				"2 Tablespoons cornstarch",
+				"1 Teaspoon fine grain sea salt",
+				"1/4 Teaspoon ground black pepper"
+			],
+			"instructions": [
+				"Heat coconut oil in a medium skillet over medium-high heat. Add onion and garlic and saute’ for 4 to 5 minutes, until translucent. Add garam masala, curry powder and chili powder and saute’ for 1 minute, until fragrant.",
+				"Stir in coconut milk, tomato paste, salt, and pepper. Reduce the heat to low.",
+				"In a small bowl combine cornstarch with 4 tablespoons of cold water, and gently stir into the coconut milk mixture. Turn off the heat.",
+				"Grease the inside of your crockpot bowl with a bit of olive oil. Add chicken chunks, pour the sauce over it, and stir to coat. Cover and cook on low setting for 4 to 5 hours."
+			]
+		},
+		{
+			"designation": 19,
+			"title": "Beer Braised BBQ Pork Butt",
+			"categories": [
+				"dinner"
+			],
+			"serves": "8",
+			"prep": "15 minutes",
+			"wait": "5 hours",
+			"ingredients": [
+				"Dry Rub:",
+				"2 Tablespoons salt",
+				"40 Grinds black pepper",
+				"2 Tablespoons chili powder",
+				"1 Tablespoon garlic powder",
+				"2 Teaspoons ground coriander",
+				"2 Teaspoons ground mustard seed",
+				"12 Oz good ale or dark beer",
+				"4 cloves garlic, chopped",
+				"1 5-Pound pork butt (shoulder of the animal)",
+				"BBQ Pork Butt:",
+				"1/2 Cup ketchup",
+				"2 Tablespoons whole grain Dijon mustard",
+				"3 Tablespoons Worcestershire sauce",
+				"1/3 Cup dark brown sugar"
+			],
+			"instructions": [
+				"Combine rub ingredients in a bowl and mix well. Rub all over pork butt. Wrap in plastic wrap and refrigerate for at least one hour and as long as overnight.",
+				"Preheat oven to 500 degrees F. Unwrap pork and place in a roasting pan with sides about 2 inches high. Cook 45 minutes until dark browned and even blackening in places. Remove from oven. Lower oven to 325 degrees F. Pour beer over the top and add chopped garlic around the pork. Cover tightly with heavy duty aluminum foil or twice with regular foil. Poke about 10 holes all over the top of the foil. Cook pork butt 2 1/2 hours longer until so tender that it comes away very easily from center bone.",
+				"Place the meat on a plate and pour the pan juice (there will be plenty) into a saucepan.",
+				"To the pan juices add the ketchup, mustard, Worcestershire and brown sugar. Bring to a simmer until reduced by half and thick, about 20 minutes.",
+				"While the sauce is boiling down, pull apart the pork with 2 forks. Pour the sauce over the pulled pork and work through until fully absorbed."
+			]
+		},
+		{
+			"designation": 20,
+			"title": "Steel Cut Oats",
+			"categories": [
+				"breakfast"
+			],
+			"serves": "4",
+			"prep": "5 minutes",
+			"wait": "35 minutes",
+			"ingredients": [
+				"3 Cups water",
+				"1 Cup milk of choice: almond, cow's, coconut, etc.",
+				"1 Tablespoon coconut oil",
+				"1 Cup steel-cut oats",
+				"1/4 Teaspoon salt"
+			],
+			"instructions": [
+				"In a large saucepan, combine the water and milk. Bring the mixture to a simmer over medium heat. In the meantime, melt the coconut oil (or butter) in a 12-inch skillet over medium heat. Once shimmering, add the oats and cook, stirring occasionally, until golden and fragrant, around 2 minutes. This toasting step greatly enhances the flavor of the oats.",
+				"Stir the oats into the simmering water/milk mixture. Reduce the heat to medium low and simmer gently for about 20 minutes, stirring occasionally, until the mixture is very thick.",
+				"Stir in the salt. Continue to simmer the mixture, stirring occasionally and reducing heat as necessary to prevent scorching on the bottom, until almost all of the liquid is absorbed, about 10 minutes. (If you have doubled the recipe, your oatmeal might need an extra 5 minutes cooking time here.) The oatmeal will be very creamy when it’s done.",
+				"Remove from heat and stir in any mix-ins that you’d like. Let the oatmeal rest for 5 minutes before serving so it has more time to thicken up and cool down a palatable temperature.",
+				"Portion oatmeal into bowls and add any toppings you’d like to portions that you intend to serve immediately. Let any extra oatmeal cool completely before covering and refrigerating for future breakfasts."
+			]
+		},
+		{
+			"designation": 21,
+			"title": "Mashed Sweet Potatoes",
+			"categories": [
+				"dinner",
+				"appetizer"
+			],
+			"serves": "6",
+			"prep": "15 minutes",
+			"wait": "30 minutes",
+			"ingredients": [
+				"6 sweet potatoes, pelled and cubed",
+				"3/4 Cup milk",
+				"1 - 2 Tablespoons butter"
+			],
+			"instructions": [
+				"Bring a large pot of salted water to a boil. Add potatoes and cook until tender, 20 to 30 minutes.",
+				"With an electric mixer on low, blend potatoes, slowly adding milk, about 1/2 a cup at a time. Use more or less to achieve desired texture. Add butter and maple syrup to taste. Blend until smooth. Serve warm."
+			]
+		},
+		{
+			"designation": 22,
+			"title": "Chicken & Chorizo Paella",
+			"categories": [
+				"dinner"
+			],
+			"serves": "4",
+			"prep": "10 minutes",
+			"wait": "40 minutes",
+			"ingredients": [
+				"1 Tablespoon olive oil",
+				"2 chicken breasts, cut into chunks",
+				"2 small onions, finely diced",
+				"1 fat garlic clove, crushed",
+				"140 Grams chorizo, sliced",
+				"1 Teaspoon turmeric",
+				"Pinch of saffron",
+				"1 Teaspoon paprika",
+				"300 Grams paella rice",
+				"180 mL chicken or vegetable stock"
+			],
+			"instructions": [
+				"Heat the oil in a deep frying pan over a high heat. Add the chicken and brown all over – don’t cook completely. Once browned, transfer to a plate. Reduce the heat to low, add the onions and cook slowly until softened, about 10 mins.",
+				"Add the garlic, stir for 1 min, then toss in the chorizo and fry until it releases its oils. Stir in the spices, then tip in the rice. Stir to coat the rice in the oils and spices for about 2 mins, then pour in the hot stock. Bring to the boil, return the chicken to the pan and simmer for about 20 mins, stirring occasionally.",
+				"Simmer for a further 5 mins until the rice is cooked and the chicken is tender. Season well and serve."
+			]
+		},
+		{
+			"designation": 23,
+			"title": "Brownies",
+			"categories": [
+				"dessert"
+			],
+			"serves": "8",
+			"prep": "25 minutes",
+			"wait": "30 minutes",
+			"ingredients": [
+				"1/2 Cup butter",
+				"1 Cup white sugar",
+				"2 eggs",
+				"1 Teaspoon vanilla extract",
+				"1/3 Cup unsweetened cocoa powder",
+				"1/2 Cup all-purpose flour",
+				"1/4 Teaspoon salt",
+				"1/4 Teaspoon baking powder"
+			],
+			"instructions": [
+				"Preheat oven to 350 Degrees F. Grease and flour an 8-inch square pan.",
+				"Melt the butter in a large saucepan. Remove from heat and stir in sugar, eggs and vanilla.",
+				"Beat in cocoa, flour, salt, and baking powder. Spread batter into prepared pan.",
+				"Bake in preheated over for 25 to 30 minutes. Do not overcook."
+			]
+		},
+		{
+			"designation": 24,
+			"title": "Sausage & Shrimp Jambalaya",
+			"categories": [
+				"dinner"
+			],
+			"serves": "8",
+			"prep": "20 minutes",
+			"wait": "1 hour",
+			"ingredients": [
+				"4 Tablespoons butter",
+				"12 Ounces andouille sausage, cut into 1/4 inch slices",
+				"3 Tablespoons paprika",
+				"2 Tablespoons ground cumin",
+				"3/4 Teaspoon cayenne pepper",
+				"2 bay leaves",
+				"2 Teaspoons salt",
+				"2 peppers, diced",
+				"4 Stalks celery, sliced 1/4 inch thick",
+				"1 onion, chopped",
+				"2 Cups uncooked brown rice",
+				"6 Cups chicken stock",
+				"1 pound large shrimp",
+				"4 green onions, sliced thin"
+			],
+			"instructions": [
+				"Place butter and sausage in a large stockpot over medium heat; cook and stir for 5-6 minutes until sausage begins to brown.",
+				"Stir in paprika, cumin and cayenne; cook for 1 minute.",
+				"Stir in onions, celery, pepper, salt and bay leaves.",
+				"Add brown rice and stir to combine. Stir in chicken stock and turn heat to low.",
+				"Cover and cook for 45 minutes, or until the rice is just tender.",
+				"Stir in shrimp, replace lid and cook for 5 minutes.",
+				"Season with salt and pepper to taste. Serve garnished with green onion."
+			]
+		},
+		{
+			"designation": 25,
+			"title": "Easy Quiche",
+			"categories": [
+				"breakfast"
+			],
+			"serves": "4",
+			"prep": "10 minutes",
+			"wait": "45 minutes",
+			"ingredients": [
+				"3 eggs",
+				"1 Cup skim milk",
+				"1/2 Cup cottage cheese",
+				"1/2 Cup grated swiss cheese",
+				"Pinch of dry mustard",
+				"1 Teaspoon salt",
+				"Sprinkle of pepper",
+				"Sprinkle of parsley",
+				"9 inch pie shell"
+			],
+			"instructions": [
+				"Bake 9 inch pie shell",
+				"Beat eggs until frothy. Add all ingredients except swiss cheese and whip until combined.",
+				"Line baked shell with cheese.",
+				"Pour in egg mixture.",
+				"Bake in 325 F oven for 45 minutes."
+			]
+		},
+		{
+			"designation": 26,
+			"title": "Basic Pasta",
+			"categories": [
+				"dinner"
+			],
+			"serves": "4",
+			"prep": "30 minutes",
+			"wait": "30 minutes",
+			"ingredients": [
+				"1 1/2 Cups Semolina Flour",
+				"1 1/2 Cups All Purpose Flour",
+				"1 Teaspoon Salt, optional",
+				"4 Eggs, beaten",
+				"Just shy 4 Tablespoons Water",
+				"Just shy 4 Tablespoons Olive Oil"
+			],
+			"instructions": [
+				"Combine both flours and salt. Mix until even and create a well in the center.",
+				"Add beaten eggs, water, and olive oil into the well. Using a fork, slowly incorporate more and more flour into the liquid.",
+				"Turn dough out onto a flat surface and knead until smooth, around 10 minutes. Add flour as needed to prevent sticking.",
+				"Form the dough into a hockey puck shape, wrap and plastic wrap, and let sit for 20 - 30 minutes.",
+				"On a lightly floured surface, roll out dough to desired thickness and cut into reasonably sized pieces",
+				"Use the pasta extruder to flatten, and then run the sheets through the spaghetti cutter. Make sure to flour at each step to prevent sticking.",
+				"Bring a large pot of water to boil and cook pasta until tender, usually around 2 - 3 minutes."
+			]
+		},
+		{
+			"designation": 27,
+			"title": "Garlic Pull-Apart Bread",
+			"categories": [
+				"bread",
+				"snack"
+			],
+			"serves": "8",
+			"prep": "1 hour",
+			"wait": "2 hours",
+			"ingredients": [
+				"3 1/2 Cups all-purpose flour",
+				"2 Tablespoons sugar",
+				"1 Packet Fleischmanns RapidRise yeast",
+				"1 Teaspoon salt",
+				"3/4 Cup milk",
+				"1/4 Cup water",
+				"1/4 Cup butter, room temp",
+				"1 egg",
+				"8 Oz mozzarella cheese",
+				"1/2 Cup butter, melted",
+				"2 Tablespoons grated Parmesan cheese",
+				"1 1/2 Teaspoons garlic powder",
+				"1 1/2 Teaspoons Italian herb seasoning"
+			],
+			"instructions": [
+				"Combine 2 cups flour, sugar, yeast and salt into the bowl of your stand mixer and mix on low until blended. Combine milk, water and butter in a microwave-safe bowl. Microwave on high in 15 second increments until very warm but not hot to the touch (120° to 130°F. Butter won’t melt completely). Add to flour mixture and then add the egg.",
+				"Mix with the paddle attachment for 2 minutes on medium speed, scraping the bowl as needed. Add 1 cup flour; beat 2 minutes at high speed. If necessary, stir in just enough remaining flour so that the dough will form into a ball.",
+				"Lightly flour your counter top and knead the dough until smooth and elastic and dough springs back when lightly pressed with 2 fingers, about 6 to 8 minutes. (Alternately you can switch out the paddle attachment for your dough hook on the stand mixer and do this step with the dough hook).",
+				"Cover the dough with a towel and let it rest for 10 minutes.",
+				"Coat a 10- cup bundt pan with nonstick spray and set aside.",
+				"Cut the cheese into 32 pieces or cubes. Set aside.",
+				"Cut the dough into 32 pieces. Wrap each piece of dough around a piece of cheese.",
+				"For filling, combine butter, Parmesan cheese, garlic powder and Italian herb seasoning in a small bowl.",
+				"Dip each dough ball into the melted butter mixture. Place in prepared pan. Pour any remaining butter over rolls and cover with towel. Let the dough rise in warm place until doubled in size, about 45 minutes.",
+				"Preheat oven to 375°F. Bake the rolls for 25 to 30 minutes or until golden brown. Cool 5 minutes in pan, then invert on serving plate."
+			]
+		},
+		{
+			"designation": 28,
+			"title": "",
+			"categories": [
+				""
+			],
+			"serves": "",
+			"prep": "",
+			"wait": "",
+			"ingredients": [
+				""
+			],
+			"instructions": [
+				""
+			]
+		},
+		{
+			"designation": 29,
+			"title": "Greek Turkey Burgers with Spinach, Feta, & Tzatziki",
+			"categories": [
+				"dinner"
+			],
+			"serves": "4",
+			"prep": "30 minutes",
+			"wait": "30 minutes",
+			"ingredients": [
+				"1 cup frozen chopped spinach, thawed",
+				"1 pound lean ground turkey",
+				"1/2 cup crumbled feta cheese",
+				"1/2 tsp garlic powder",
+				"1/2 tsp dried oregano",
+				"1/4 tsp salt",
+				"1/4 tsp ground pepper",
+				"4 small hamburger buns",
+				"4 Tbs tzatziki",
+				"12 slices cucumber",
+				"8 thick rings red onion"
+			],
+			"instructions": [
+				"Preheat grill to medium-high.",
+				"Combine the spinach with the turkey, feta, garlic powder, oregano, salt, and pepper in a medium bowl and mix well.",
+				"Form into four 4-inch patties.",
+				"Grill the patties on an oiled grill rack until cooked through and no longer pink in the center, 4 to 6 minutes per side (165)",
+				"Assemble the burgers on the buns, topping each with 1 Tbs. tzatziki, 3 cucumber slices, and 2 onion rings",
+				"(to make your own at home by combining plain greek yogurt with a squuze of lemon, dill, and finely chopped cucumer)."
+			]
+		},
+		{
+			"designation": 30,
+			"title": "Shrimp and Artichoke Kabobs",
+			"categories": [
+				"dinner"
+			],
+			"serves": "6",
+			"prep": "10 minutes",
+			"wait": "45 minutes",
+			"ingredients": [
+				"9 oz uncooked fresh linguini",
+				"1 lb. (about 24 medium) fresh or frozen raw shrimp",
+				"11 medium red onion, cut into 12 wedges",
+				"2 (6 oz jars) marinated artichokes, reserve marinade",
+				"6 (12-inch) metal skewers",
+				"Basting Sauce",
+				"2 tsp dried basil leaves",
+				"1/2 tsp salt",
+				"1/2 tsp coarsely ground pepper",
+				"Dash cayenne papper",
+				"1/2 tsp finely chopped fresh garlic",
+				"2 Tbs olive or vegetable oil",
+				"2 tsp grated lemon peel"
+			],
+			"instructions": [
+				"Prepare grill; heat until coals are ash white.",
+				"Cook linguini according to package directions; drain.",
+				"Place in large bowl; set aside.",
+				"Meanwhile, peel and devein shrimp, leaving tail intact (if shrimp are frozen, do not thaw; peel under running cold water).",
+				"Alternate shrim, onion, and artichokes on skewers.",
+				"In small bowl stir together 2 Tbs. reserved marinade and all basting sauce ingredients except lemon peel; brush over kabobs.",
+				"Place kabobs on grill.  Grill, basting and turning occasionally for 7-10 minutes or until shrimp turn pink.",
+				"Meanwhile, add remaining artichoke marinade and lemon peel to linguini; toss to coat.",
+				"Serve linguini with kabobs."
+			]
+		},
+		{
+			"designation": 31,
+			"title": "Almost Five Ingredient Pizza Spaghetti Pie",
+			"categories": [
+				"dinner"
+			],
+			"serves": "6",
+			"prep": "40 minutes",
+			"wait": "1 hour",
+			"ingredients": [
+				"1 large spaghetti squash - cut in 1/2, seeds removed",
+				"1 lb. italian sausage",
+				"1/2 yellow onion",
+				"1 cup pizza sauce (or more for large squash)",
+				"1 tsp. dried basil",
+				"salt and pepper to taste",
+				"3 eggs, whisked"
+			],
+			"instructions": [
+				"Preheat oven to 400.",
+				"Cook spaghetti squash cutside down on baking sheet for 30 minutes.",
+				"When done, remove threads and place in an 8 x 8 greased pan (I use a 9 x 12).",
+				"Cook sausage and onion in large skillet until sausage is no longer pink and is broken up into pieces.",
+				"Add pizza sauce, dried basil, salt and paper and mix well.",
+				"Add sausage mixture to the 8 x 8 dish and mix with spaghetti sauce",
+				"Add whisked eggs to the baking dish and mix everything. Top with mozzarella.",
+				"Bake for 1 hour or until the top forms a slight crust that doesn't give when you press on it.",
+				"Let rest for 5 minutes."
+			]
+		},
+		{
+			"designation": 32,
+			"title": "Salsa Meatloaf by Emma Jane",
+			"categories": [
+				"dinner"
+			],
+			"serves": "6",
+			"prep": "15 minutes",
+			"wait": "1 hour",
+			"ingredients": [
+				"2 lbs lean ground beef (E. uses turkey)",
+				"1 cup salsa",
+				"3/4 cup old fashioned oats",
+				"1/2 cup finely chopped onion",
+				"1 large egg beaten",
+				"1 Tbs. Worcestershire sauce",
+				"1 tsp. garlic powder",
+				"Salt and pepper"
+			],
+			"instructions": [
+				"Mix all ingredients in a bowl.",
+				"Spray loaf pan with non-stick spray.",
+				"Put in loaf pan and bake 1 hour.",
+				"Cut into 6 slices."
+			]
+		},
+		{
+			"designation": 33,
+			"title": "Apricot Glazed Salmon with Summer Squash and Zucchini",
+			"categories": [
+				"dinner"
+			],
+			"serves": "2",
+			"prep": "10 minutes",
+			"wait": "15 minutes",
+			"ingredients": [
+				"2 zucchini, diced",
+				"1 yellow summer squash, diced",
+				"1 cup sweet corn kernels (from 1 cob)",
+				"1 Tbs. evoo, kosher salt, pepper",
+				"1/4 cup soy sauce",
+				"2 heaping Tbs. apricot preserves",
+				"2 garlic cloves minced",
+				"1 (8-12 oz) salmon fillet"
+			],
+			"instructions": [
+				"Preheat oven to 425. Have a large dutch oven or roasting pan ready.",
+				"Put zucchini, squash, and corn in dutch oven and coat with olive oil.  Add pinch of salt and pepper.",
+				"In small bowl, stir together soy sauce, aricot preserves, and garlic.",
+				"Place salmon in Dutch oven (nestling in veggies).",
+				"Pour apricot sauce over top.",
+				"Bake til veggies are cooked and salmon flakes easily."
+			]
+		},
+		{
+			"designation": 34,
+			"title": "Botchie's Spaghetti Sauce",
+			"categories": [
+				"dinner"
+			],
+			"serves": "6",
+			"prep": "10 minutes",
+			"wait": "45 minutes",
+			"ingredients": [
+				"1/2 cup onion chopped",
+				"3 Tbs. olive oil",
+				"1 big can whole or crushed tomatoes",
+				"1 can tomato paste",
+				"1 can tomato sauce",
+				"1 cup water",
+				"1 tsp. basil",
+				"2 Tbs.parsley",
+				"2 tsp. salt",
+				"1/4 tsp. pepper"
+			],
+			"instructions": [
+				"Saute onion in olive oil.",
+				"Add remaining ingredients.",
+				"Simmer while making the meatballs."
+			]
+		},
+		{
+			"designation": 35,
+			"title": "Botchie's Meatballs",
+			"categories": [
+				"dinner"
+			],
+			"serves": "6",
+			"prep": "10 minutes",
+			"wait": "? minutes",
+			"ingredients": [
+				"1.5 lbs ground beef",
+				"1 cup bread crumbs",
+				"1/2 cup parmesan",
+				"1 Tbs. parsley",
+				"1/2 cup milk",
+				"2 eggs beaten",
+				"1/2 tsp salt",
+				"1/8 tsp pepper"
+			],
+			"instructions": [
+				"Mix with hands.",
+				"Broil til brown and cooked through."
+			]
+		},
+		{
+			"designation": 36,
+			"title": "Salmon Tacos",
+			"categories": [
+				"dinner"
+			],
+			"serves": "6",
+			"prep": "30 minutes",
+			"wait": "12-15 minutes",
+			"ingredients": [
+				"1 tsp. lime zest",
+				"2 tsp chipotle chili powder",
+				"salt to taste",
+				"1 3/4 lb salmon",
+				"For the slaw",
+				"3/4 lb. green cabbage",
+				"1/2 seedless cucumber",
+				"1/4 cup white wine vinegar",
+				"3 Tbs. minced fresh dill",
+				"salt and pepper",
+				"1 avocado"
+			],
+			"instructions": [
+				"Preheat oven to 425.",
+				"Mix lime zest, chili powder, and salt.",
+				"Spread over salmon.",
+				"Bake for 12-15 minutes.",
+				"Pour in egg mixture.",
+				"Bake in 325 F oven for 45 minutes.",
+				"Mix all remaining ingredients for the slaw.",
+				"Put big dollop of mashed avocado on a soft taco shell.",
+				"Put salmon and veggie mix."
+			]
+		},
+		{
+			"designation": 37,
+			"title": "Turkey Chili",
+			"categories": [
+				"dinner"
+			],
+			"serves": "8",
+			"prep": "15 minutes",
+			"wait": "5-6 hours in the crock pot",
+			"ingredients": [
+				"2lbs. ground turkey, browned",
+				"2 jars salsa verde",
+				"3 14 oz. cans diced tomatoes with green chilies",
+				"1 14 oz. can white canneli beans",
+				"2 14 oz. cans red kidney beans",
+				"1-2 diced onions",
+				"2 diced peppers",
+				"1 diced jalepeno",
+				"2-3 cloves garlic diced/crushed",
+				"2 Tbs. ground cumin",
+				"1 pkg. low sodium Taco seasoning",
+				"1 bunch diced cilantro"
+			],
+			"instructions": [
+				"Add all ingredients to the crock pot",
+				"Cook on high 3-4 hours or low 5-6 hours.",
+				"Serve over rice."
+			]
+		},
+		{
+			"designation": 38,
+			"title": "Spaghetti alla Carbonara from Joy",
+			"categories": [
+				"dinner"
+			],
+			"serves": "?",
+			"prep": "30 minutes",
+			"wait": "0",
+			"ingredients": [
+				"1 lb dry spaghetti",
+				"2 Tbs extra-virgin olive oil",
+				"4 oz pancetta or slab bacon, cubed or sliced into small strips",
+				"2 garlic cloves, finely chopped",
+				"2 large eggs",
+				"1 cup freshly grated Parmigiano-Reggiano, plus more for serving",
+				"Freshly ground black pepper",
+				"1 handful fresh flat-leaf parsley, chopped"
+			],
+			"instructions": [
+				"Prepare the sauce while the pasta is cooking to ensure that the spaghetti",
+				"will be hot and ready when the sauce is finished",
+				"It is very important that the pasta is hot when adding the egg mixture so",
+				"that the heat of the pasta cooks the raw eggs in the sauce.",
+				"Bring a large pot of salted water to a boil, add pasta, cook 8-10 min",
+				"Drain the pasta well, reserving 1/2 cup of the water.",
+				"Meanwhile, heat the olive oil in a deep skillet over medium flame.",
+				"Add the pancetta and saute for about 3 minutes, until the bacon is crisp",
+				"and the fat is rendered. Toss the garlic into the fat and saute for 1 min",
+				"Add the hot, drained spaghetti to the pan and toss for 2 minutes to coat.",
+				"Beat the eggs and Parmesan together in a mixing bowl, stirring well to",
+				"prevent lumps.",
+				"Remove the pan from the heat and pour the egg/chees mix into the pasta,",
+				"whisking quickly until the eggs thicken, but do not scrample.",
+				"Thin out the sauce with a bit of the reserved pasta water, until it",
+				"reaches desired consistency.",
+				"Season with ground pepper and salt.  Garnish with chopped parsley"
+			]
+		},
+		{
+			"designation": 39,
+			"title": "Chicken Enchiladas",
+			"categories": [
+				"dinner"
+			],
+			"serves": "6",
+			"prep": "20 minutes",
+			"wait": "25 minutes",
+			"ingredients": [
+				"For the enchilada sauce:",
+				"2 garlic cloves, minced",
+				"1-2 Tbs chipotle chilis in adobo sauce",
+				"1 1/2 cups tomato sauce",
+				"1/2 tsp chipotle chili powder",
+				"1/2 tsp ground cumin",
+				"3/4 cup reduced sodium chicken broth",
+				"kosher salt and fresh pepper to taste",
+				"For the chicken",
+				"1 tsp vegetable oil",
+				"8.5 oz (2 brest halves) cooked chicken breast",
+				"1 cup diced onion",
+				"2 cloves garlic, crushed",
+				"kosher salt",
+				"1 tsp cumin",
+				"1/2 tsp dried oregano",
+				"1 tsp chipotle chili powder",
+				"1/3 cup chicken broth",
+				"1/2 cup tomato sauce",
+				"optional: 1 can black beans",
+				"8 (7 inch) low carb whole wheat flour tortillas",
+				"1 cup low fat shredded mexican cheese",
+				"2 Tbs chopped scallions or cilantro for topping"
+			],
+			"instructions": [
+				"In a medium saucepan, spray oil and saute garlic.",
+				"Add chipotle chilis, chili powder, cumin, chicken broth, tomato sauce,",
+				"salt and pepper.",
+				"Bring to a boil.",
+				"Reduce the heat to low and simmer 5-10 minutes.",
+				"Set aside until ready to use.",
+				"Preheat oven to 400 degrees.",
+				"Heat oil in a medium skilet over medium-high heat.",
+				"Sauteonions and garlic on low until soft, about 2 minutes.",
+				"Add chicken, salt, cilantro, cumin, oregano, chili powder, tomato sauce,",
+				"chicken broth, and cook 4-5 minutes.  Remove from heat",
+				"Spray a 13 x 9 inch glass baking dish with non-stick spray.  Put 1/3 cup",
+				"(or more like I do) chicken mixture into each tortilla and roll it.",
+				"Place on baking dish seam side down, top with sauce.",
+				"Then top with cheese.",
+				"Cover with aluminum foil; bake in the oven (middle rack0 for 20-25 mins.",
+				"Top with low fat sour cream or scallions if you wish."
+			]
+		},
+		{
+			"designation": 40,
+			"title": "Ratatouille",
+			"categories": [
+				"dinner"
+			],
+			"serves": "6",
+			"prep": "1 hour 15 minutes",
+			"wait": "0 minutes",
+			"ingredients": [
+				"1 large eggplant, cut into 1/3 inch cubes",
+				"salt",
+				"6 Tbs EV olive oil, plus more for serving",
+				"2 medium zucchini, cut into 1/3 inch cubes",
+				"1 medium yellow onion, finely chopped",
+				"1 red, orange, or yellow bell pepper, cut into 1/4 inch dice",
+				"3 cloves garlic, chopped",
+				"5 large vine-ripened tomatoes, cut into 1/3 inch cubes, with juices",
+				"1 Tbs tomato paste",
+				"2 tsp fresh chopped thyme, plus more for serving",
+				"3/4 tsp sugar",
+				"1/4 tsp crushed red ppper flakes (optionsl)",
+				"3 Tbs chopped fresh basil"
+			],
+			"instructions": [
+				"Heat 3 Tbs oil in a large nonstick pan over medium heat.",
+				"Add the eggplant and season with 1/4 tsp salt.",
+				"Cook, stirring frequently, until soft and starting to brown, 10-12 mins.",
+				"Transfer to a plate and set aside.",
+				"Add another Tbs of oil to the pan (no need to clean it).",
+				"Add the zucchini and cook, stirring frequently, until tender-crisp (3-4 min)",
+				"Season with 1/4 tsp salt and transfer to a plate; set aside.",
+				"Add 2 more Tbs oil to the pan and add the onion and bell pepper.",
+				"Cook, stirring frequently, for about 5 minutes.",
+				"Add the garlic and con't. cooking for about 3 minutes more.  Do not brown.",
+				"Add the tomatoes and their juices, tomato paste, thyme, sugar, crushed",
+				"red pepper flakes and 3/4 tsp salt.",
+				"Cook, stirring occasionally, until the tomatoes are broken down into a",
+				"sauce, 8-10 minutes.",
+				"Add the cooked eggplant to the pan.",
+				"Bring to a gentle boil, then reduce the heat to low and simmer,",
+				"uncovered, for about 10 minutes or until the eggplant is soft.",
+				"Add the zucchini and cook for 1-2 minutes more, or until warmed through.",
+				"Taste and adjust seasoning, if necessary.",
+				"Sprinkle with fresh basil and thyme, drezzle with a little olive oil,",
+				"if desired, and serve warm or chilled.",
+				"Leftovers can be stored in the refrigerator in an airtight container for",
+				"up to 5 days."
+			]
+		},
+		{
+			"designation": 41,
+			"title": "Southfork Chili",
+			"categories": [
+				"dinner"
+			],
+			"serves": "6",
+			"prep": "20 minutes",
+			"wait": "45 minutes",
+			"ingredients": [
+				"2 1/2 lb ground beef",
+				"2 cups chopped onion",
+				"1 green pepper, coarsely chopped",
+				"3 cloves garlic, pressed",
+				"1 Tbs crushed red pepper (I use 1/2 - 3/4 Tbs)",
+				"3 Tbs chili powder",
+				"2 tsp cumin",
+				"1/2 tsp dried oregano",
+				"2 tsp salt",
+				"2 cans kidney beans (1 lb size), undrained",
+				"2 cans whole tomatoes (1 lb size), undrained",
+				"1 can (12 oz) whole kernel corn",
+				"1 can (8 oz) tomato sauce"
+			],
+			"instructions": [
+				"In large skillet over medium heat, saute ground beef, stirring",
+				"occasionally, til red is gone.  Drain off fat.",
+				"Add onion, green pepper, chili powder, cumin, oregano, and salt.",
+				"Mix well. Cook til onions are tender.",
+				"Add beans, tomatoes, corn, and tomato sauce.",
+				"Stir well, breaking up tomatoes.",
+				"Simmer slowly, covered, and stirring occasionally til thickened and",
+				"flavors are blended, about 45 minutes."
+			]
+		},
+		{
+			"designation": 42,
+			"title": "Crock Pot Mexican Chicken",
+			"categories": [
+				"dinner"
+			],
+			"serves": "4",
+			"prep": "10 minutes",
+			"wait": "4-8 hours",
+			"ingredients": [
+				"3-4 chicken breasts",
+				"1 pkg taco seasoning",
+				"1 pkg ranch dressing",
+				"3/4 cup chicken broth if frozen chix, 1/2 cup if chix is thawed",
+				"1 can rotelle tomatoes with cilantro and lime",
+				"1 can black beans"
+			],
+			"instructions": [
+				"Pour all ingredients into the crock pot.",
+				"Cook."
+			]
+		},
+		{
+			"designation": 43,
+			"title": "Martha Stewart Mac and Cheese",
+			"categories": [
+				"dinner"
+			],
+			"serves": "8",
+			"prep": "30 minutes",
+			"wait": "30 minutes",
+			"ingredients": [
+				"1 stick butter",
+				"6 slices white bread (Arnold's or Pepperidge Farms)",
+				"5 1/2 cups milk",
+				"1/2 cup flour",
+				"2 tsp salt",
+				"1/4 tsp nutmeg",
+				"1/4 tsp pepper",
+				"1/4 tsp cayenne pepper",
+				"4 1/2 cup sharp white cheddar cheese",
+				"2 cups greyere cheese (or 1 1/4 cup pecorino romano cheese)",
+				"1 lb elbow macaroni"
+			],
+			"instructions": [
+				"Remove crusts from bread and tear into 1/2 inch pieces.",
+				"Melt 2 Tbs butter and pour over bread in a bowl.  Toss and set aside.",
+				"Heat milk to hot.",
+				"In high sided frying pan, melt 6 Tbs butter over medium heat.",
+				"Add flour and stir for 1 minute.",
+				"Add hot milk to the roux.",
+				"Cook til thick then remove from heat.",
+				"Stir in salt, nutmeg, pepper, and cayenne.",
+				"Add 3 cups cheddar and other cheese (1 cup rom or 1/2 cup gr).",
+				"Cook pasta.  Rinse.  Stir into cheese sauce.",
+				"Pour into greased casserole dish.",
+				"Sprinkle remaining cheeses on top.",
+				"Scatter bread crumbs on top.",
+				"Bake at 375 for 30 minutes."
+			]
+		},
+		{
+			"designation": 44,
+			"title": "Fish Tacos",
+			"categories": [
+				"dinner"
+			],
+			"serves": "4",
+			"prep": "30 minutes",
+			"wait": "15 minutes",
+			"ingredients": [
+				"3 Tbs. extra virgin olive oil",
+				"juice of 1 lime",
+				"2 tsp chili powder",
+				"1/2 tsp cumin",
+				"1/2 tsp cayenne pepper",
+				"1 1/2 lb cod",
+				"1/2 Tbs vegetable oil",
+				"salt and pepper",
+				"8 tortillas",
+				"1 avocado",
+				"For the slaw:",
+				"1/4 cup mayonaise",
+				"2 Tbs. lime juice",
+				"2 Tbs chopped fresh cilantro",
+				"1 Tbs honey",
+				"1 cup corn kernels",
+				"1 jalepeno, minced",
+				"2 cups shredded purple cabbage"
+			],
+			"instructions": [
+				"Whisk together evoo, lime juice, chili powder, cumin, and cayenne.",
+				"Add cod, tossing to evenly coat.",
+				"Marinade for 15 minutes.",
+				"For the slaw:",
+				"Whisk together mayo, lime juice, cilantro, and honey.",
+				"Stir in cabbage, corn, and jalepeno.  Season with salt and pepper.",
+				"In large nonstick pan over med-hi heat, heat vegetable oil.",
+				"Place fish in pan, flesh side down.",
+				"Cook 3-5 minutes per side til opaque.",
+				"Rest for 5 minutes and then flake the fish apart.",
+				"Serve fish over grilled tortillas with slaw and avocado.",
+				"Squeeze lime juice on top and add sour cream."
+			]
+		},
+		{
+			"designation": 45,
+			"title": "Chicken and Cheese Quesadillas from Martha",
+			"categories": [
+				"dinner"
+			],
+			"serves": 4,
+			"prep": "35 minutes",
+			"wait": "15 minutes",
+			"ingredients": [
+				"1 lb boneless chicken breast",
+				"salt and pepper",
+				"2 Tbs vegetable oil",
+				"1 onion, chopped fine",
+				"1 red pepper, chopped",
+				"2 garlic cloves minced",
+				"1 tsp cumin",
+				"1/4 cup fresh cilantro",
+				"1 1/2 tsp Tabasco",
+				"8 (8 inch) flour tortillas",
+				"8 oz monteray jack cheese shredded (2 cups)",
+				"optional- can of black beans"
+			],
+			"instructions": [
+				"Preheat oven to 475",
+				"Season chicken with salt and papper to taste.",
+				"Heat 1 Tbs oil over medium heat and cook chix through (about 5 min/side).",
+				"Refrigerate.  When cooled, slice chix into bite sized pieces.",
+				"Add 1 tsp oil to pan and add peppers, onions, and 1/4 tsp salt.",
+				"Cook about 5 minutes.",
+				"Stir in garlic and cumin and cook about 30 seconds.",
+				"Add the cilantro and Tabasco and toss to combine.",
+				"Spread chicken filling over 1/2 the tortilla.",
+				"Sprinkle with cheese.",
+				"Spray the plain 1/2 of the tortilla with veg oil spray.",
+				"Fold over the filling.",
+				"Arrange on 2 baking sheets.",
+				"Spray lightly with oil spray and bake 10-15 minutes."
+			]
+		},
+		{
+			"designation": 46,
+			"title": "Spicy Shrimp Scampi",
+			"categories": [
+				"dinner"
+			],
+			"serves": "2",
+			"prep": "20 minutes",
+			"wait": "2 minutes",
+			"ingredients": [
+				"1 lb large shrimp, peeled and deveined",
+				"3 Tbs Butter",
+				"3 Tbs olive oil",
+				"2 cloves garlic, minced",
+				"1/2 tsp pepper",
+				"1/2 tsp red pepper flakes",
+				"1/4 tsp cayenne pepper",
+				"5 Tbs italian bread crumbs",
+				"1/4 cup fresh parsley, minced",
+				"salt to taste",
+				"1 lb fettucini or linguine"
+			],
+			"instructions": [
+				"Boil wather and cook pasta according to directions.",
+				"Melt butter with the olive oil in a saute pan.",
+				"When the mixture is hot, add the garlic, white pepper, red pepper flakes,",
+				"oregano, and cayenne pepper making sure to stir well.",
+				"When garlic looks cooked but not brown (about 3 min), add the shrimp.",
+				"Toss the shrimp about in the pan, coating them with the spiced oil.",
+				"Add the lemon juice and keep tossing voer the heat.",
+				"Quickly add the parsley, bread crumbs, and parmesan.",
+				"Toss to coat completely.  The shrimp should be bright pink and cooked thru.",
+				"Place the pan under the broiler until cheese looks melted (1-2 minutes).",
+				"Serve over cooked pasta, with additional parmesan sprinkled over the top."
+			]
+		},
+		{
+			"designation": 47,
+			"title": "Fajita Turkey Burger",
+			"categories": [
+				"dinner"
+			],
+			"serves": "4",
+			"prep": "10 minutes",
+			"wait": "10 minutes",
+			"ingredients": [
+				"1/4 cup bottled tomatillo salsa",
+				"2 Tbs chopped avocado",
+				"1 Tbs chopped fresh cilantro",
+				"2 (1 oz) slices white bread (or use bread crumbs)",
+				"1/2 cup finely chopped onion",
+				"1/2 xup finely chopped red bell pepper,",
+				"1/2 cup finely chopped green bell pepper",
+				"2 tsp fajita seasoning, divided",
+				"1/4 tsp salt, divided",
+				"1 Tbs tomato paste",
+				"1 lb ground turkey",
+				"1 egg white",
+				"4 (1 1/2 oz) whole wheat hamburger buns toasted"
+			],
+			"instructions": [
+				"Combine tomatillo salsa, chopped avocado, and cilantro and set aside.",
+				"Place bread in a food processor; pulse 10 times or until 1 cup crumbs.",
+				"Heat a large nonstick skillet over med-high heat; coat with cooking spray",
+				"Add onion and bell peppers; saute 5 minutes or until tender.",
+				"Stir in 1/2 tsp fajita seasoning and 1/8 tsp salt.  Cool.",
+				"Combine breadcrumbs, onion mixture, remaining 1 1/2 tsp fajita seasoning,",
+				"remaining 1/8 tsp salt, tomato paste, turkey, and egg white in large bowl.",
+				"Using damp hands, divide turkey mixtue into 4 equal 3/4 inch patties.",
+				"Heat pan over medium heat and re-coat with cooking spray.",
+				"Add patties, cook 4 minutes on each side or until done.",
+				"Place 1 patty on bun and top with salsa mixture."
+			]
+		}
+	]
 }
